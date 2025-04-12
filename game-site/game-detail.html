@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Game Details</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 id="game-title"></h1>
+    <p><strong>Description:</strong> <span id="game-description"></span></p>
+    <p><strong>Rewards:</strong></p>
+    <ul id="game-rewards"></ul>
+    <button id="request-play" onclick="submitForm()">Request to Play</button>
+  </div>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const gameId = params.get('id');
+
+    fetch('data.json')
+      .then((response) => response.json())
+      .then((games) => {
+        const game = games.find(g => g.id === gameId);
+        if (game) {
+          document.getElementById("game-title").textContent = game.title;
+          document.getElementById("game-description").textContent = game.description;
+          const rewardsList = document.getElementById("game-rewards");
+          game.rewards.forEach(reward => {
+            const li = document.createElement('li');
+            li.textContent = reward;
+            rewardsList.appendChild(li);
+          });
+        }
+      });
+
+    function submitForm() {
+      const formUrl = `https://docs.google.com/forms/d/e/YOUR_GOOGLE_FORM_ID/formResponse?entry.123456=${gameId}`;
+      window.location.href = formUrl;
+    }
+  </script>
+</body>
+</html>
