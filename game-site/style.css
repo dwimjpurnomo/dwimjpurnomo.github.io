@@ -1,9 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f4f4f9;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
 }
 
 .container {
@@ -14,28 +19,71 @@ body {
 
 h1 {
   text-align: center;
-  margin-bottom: 20px;
+  color: #333;
 }
 
 .game-card {
-  background-color: white;
-  border-radius: 8px;
+  background-color: #fff;
   padding: 15px;
-  margin-bottom: 15px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
 }
 
 .game-title {
-  font-size: 20px;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.max-earning {
+  font-size: 1.2em;
   font-weight: bold;
+  color: #e74c3c;
   margin-bottom: 10px;
 }
 
-.reward-entry {
-  font-size: 14px;
+.play-button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
-ul {
-  list-style: none;
-  padding-left: 0;
+.play-button:hover {
+  background-color: #2980b9;
+}
+
+#game-title {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#game-description {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+#game-rewards {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+#game-rewards li {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #2ecc71;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #27ae60;
 }
