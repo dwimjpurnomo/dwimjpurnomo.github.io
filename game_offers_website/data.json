@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Rise of Kingdoms",
+    "platform": "Android",
+    "rating": "4.5",
+    "description": "Conquer with Greece, Rise to Greatness. ▶Introducing a New Civilization to Rise of Kingdoms: Greece! ◀ Greece has entered the Rise of Kingdoms arena...",
+    "rewards": [
+      "$3.75 (Special Chest)VIP 3 - 1D",
+      "$11.25 (Special Chest)VIP 5 - 10D",
+      "$37.50 (Special Chest)VIP 7 - 20D",
+      "$26.25 Unlock Troops Level III - 10D",
+      "$3.75 (Bonus) Purchase 30-days Gem Supply",
+      "$15 (Bonus) Purchase GrowthFund",
+      "$0.01 Install and open the app",
+      "$3.75 Reach City level 8 on the first day!",
+      "$45 Reach City level 14 in 5 days",
+      "$78.75 Reach City level 17 in 14 days",
+      "$187.50 Reach City level 25 in 35 days"
+    ]
+  },
+  {
+    "title": "Domino Dreams",
+    "platform": "Android",
+    "rating": "4.8",
+    "description": "Thousands of Domino levels are waiting for you, in this journey of fun and excitement.",
+    "rewards": [
+      "$0.01 per day",
+      "$0.14 Play 2 minutes",
+      "$0.33 Play on 7 different days",
+      "$0.95 Play on 20 different days",
+      "$32.25 Play on 50 different days",
+      "$47.25 Complete area 7 within 8 days",
+      "$90 Complete area 10 within 16 days",
+      "$0.01 Install & open the app",
+      "$0.01 Complete Level 1 within 90 days",
+      "$25.79 Complete area 39 within 90 days"
+    ]
+  }
+]
