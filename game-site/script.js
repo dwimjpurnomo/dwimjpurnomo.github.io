@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <img src="${game.image}" alt="${game.title}" class="game-image"/>
             <div class="game-title">${game.title}</div>
             <div class="max-earning">$${Math.max(...game.rewards.map(r => parseFloat(r.split(' ')[0])))}</div>
-            <button class="play-button" onclick="location.href='game-detail.html?id=${game.id}'">Play Game</button>
+            <button class="play-button" onclick="location.href='game-detail.html?id=${game.id}'">Lebih detil dan mainkan</button>
           `;
           gameList.appendChild(card);
         });
