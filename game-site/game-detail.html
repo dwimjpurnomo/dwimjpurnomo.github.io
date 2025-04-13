@@ -9,13 +9,19 @@
 <body>
   <div class="container">
     <button id="back-button" onclick="goBack()">Back</button>
-    <h1 id="game-title"></h1>
+    
+    <!-- Image appears first -->
     <img id="game-image" class="game-image" src="" alt="Game Image">
+
+    <!-- Title now appears below image -->
+    <h1 id="game-title" class="detail-title"></h1>
+
     <p><strong>Description:</strong> <span id="game-description"></span></p>
     <p><strong>Rewards:</strong></p>
     <ul id="game-rewards"></ul>
     <button id="request-play" onclick="submitForm()">Request to Play</button>
   </div>
+
   <script>
     const params = new URLSearchParams(window.location.search);
     const gameId = params.get('id');
@@ -23,35 +29,28 @@
     fetch('data.json')
       .then((response) => response.json())
       .then((games) => {
-      const game = games.find(g => g.id === gameId);
-      if (game) {
-      document.getElementById("game-title").textContent = game.title;
-      document.getElementById("game-description").textContent = game.description;
-      document.getElementById("game-image").src = game.image;
-      document.getElementById("game-image").alt = game.title;
-
-      const rewardsList = document.getElementById("game-rewards");
-      game.rewards.forEach(reward => {
-        const li = document.createElement('li');
-        li.textContent = reward;
-        rewardsList.appendChild(li);
-      });
-      }
-
+        const game = games.find(g => g.id === gameId);
+        if (game) {
+          document.getElementById("game-title").textContent = game.title;
+          document.getElementById("game-image").src = game.image;
+          document.getElementById("game-description").textContent = game.description;
+          const rewardsList = document.getElementById("game-rewards");
+          game.rewards.forEach(reward => {
+            const li = document.createElement('li');
+            li.textContent = reward;
+            rewardsList.appendChild(li);
+          });
+        }
       });
 
-      function submitForm() {
-        const formUrl = `https://docs.google.com/forms/d/e/1FAIpQLSeGccAmYmYspWKp9P4JfL5FSVsPMwR3DSF8-8dAKEcowVMHXg/viewform?usp=pp_url&entry.1065046570=${encodeURIComponent(gameId)}`;
-        
-          // Open the form in a new tab
-        window.open(formUrl, '_blank');
-      }
+    function submitForm() {
+      const formUrl = `https://docs.google.com/forms/d/e/1FAIpQLSeGccAmYmYspWKp9P4JfL5FSVsPMwR3DSF8-8dAKEcowVMHXg/viewform?usp=pp_url&entry.1065046570=${encodeURIComponent(gameId)}`;
+      window.open(formUrl, '_blank');
+    }
 
-        // Function to go back to the previous page
     function goBack() {
       window.history.back();
     }
-    
   </script>
 </body>
 </html>
