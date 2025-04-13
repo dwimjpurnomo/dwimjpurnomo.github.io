@@ -31,9 +31,9 @@ h1 {
 }
 
 .game-card {
-  background-color: #111;
+  background-color: #0d1b2a; /* Dark navy blue */
   padding: 15px;
-  border: 1px solid #444;
+  border: 1px solid #1b263b; /* Slightly lighter blue for border */
   border-radius: 8px;
   text-align: center;
   box-shadow: 0 2px 8px rgba(255, 255, 255, 0.05);
