@@ -74,7 +74,8 @@ h1 {
 .play-button {
   background-color: #3498db;
   color: #fff;
-  padding: 10px;
+  font-size: 1.1rem; /* slightly bigger than default */
+  padding: 8px 16px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
