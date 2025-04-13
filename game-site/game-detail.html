@@ -8,6 +8,7 @@
 </head>
 <body>
   <div class="container">
+    <button id="back-button" onclick="goBack()">Back</button>
     <h1 id="game-title"></h1>
     <p><strong>Description:</strong> <span id="game-description"></span></p>
     <p><strong>Rewards:</strong></p>
@@ -40,6 +41,12 @@
           // Open the form in a new tab
         window.open(formUrl, '_blank');
       }
+
+        // Function to go back to the previous page
+    function goBack() {
+      window.history.back();
+    }
+    
   </script>
 </body>
 </html>
