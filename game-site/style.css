@@ -76,6 +76,13 @@ h1 {
   color: #fff;
 }
 
+.game-image {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
 #game-description {
   font-size: 1.1em;
   margin-bottom: 20px;
