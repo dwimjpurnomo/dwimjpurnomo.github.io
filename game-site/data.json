@@ -2,6 +2,7 @@
   {
     "id": "1",
     "title": "Rise of Kingdoms",
+    "image": "images/game1.jpg",
     "platform": "Android",
     "rating": "4.5",
     "description": "Conquer with Greece, Rise to Greatness.",
@@ -15,6 +16,7 @@
   {
     "id": "2",
     "title": "Domino Dreams",
+    "image": "images/game1.jpg",
     "platform": "Android",
     "rating": "4.8",
     "description": "Thousands of Domino levels.",
@@ -26,6 +28,7 @@
   {
     "id": "3",
     "title": "Coin Master",
+    "image": "images/game1.jpg",
     "platform": "Android",
     "rating": "4.4",
     "description": "Join your friends and millions of players to build your Viking village.",
@@ -37,6 +40,7 @@
   {
     "id": "4",
     "title": "Evony: The King's Return",
+    "image": "images/game1.jpg",
     "platform": "Android",
     "rating": "4.3",
     "description": "Build your empire and fight real-time battles.",
@@ -48,6 +52,7 @@
   {
     "id": "5",
     "title": "Match Masters",
+    "image": "images/game1.jpg",
     "platform": "Android",
     "rating": "4.6",
     "description": "An exciting match-3 game with real-time PVP competition.",
