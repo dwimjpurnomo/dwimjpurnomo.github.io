@@ -23,17 +23,21 @@
     fetch('data.json')
       .then((response) => response.json())
       .then((games) => {
-        const game = games.find(g => g.id === gameId);
-        if (game) {
-          document.getElementById("game-title").textContent = game.title;
-          document.getElementById("game-description").textContent = game.description;
-          const rewardsList = document.getElementById("game-rewards");
-          game.rewards.forEach(reward => {
-            const li = document.createElement('li');
-            li.textContent = reward;
-            rewardsList.appendChild(li);
-          });
-        }
+      const game = games.find(g => g.id === gameId);
+      if (game) {
+      document.getElementById("game-title").textContent = game.title;
+      document.getElementById("game-description").textContent = game.description;
+      document.getElementById("game-image").src = game.image;
+      document.getElementById("game-image").alt = game.title;
+
+      const rewardsList = document.getElementById("game-rewards");
+      game.rewards.forEach(reward => {
+        const li = document.createElement('li');
+        li.textContent = reward;
+        rewardsList.appendChild(li);
+      });
+      }
+
       });
 
       function submitForm() {
