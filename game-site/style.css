@@ -133,6 +133,25 @@ button:hover {
   background-color: #27ae60;
 }
 
+#back-button {
+  background: none;
+  border: none;
+  color: #fff; /* or any text color you prefer */
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+#back-button::before {
+  content: "←";
+  margin-right: 8px;
+  font-size: 1.3rem;
+}
+
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   #game-list {
