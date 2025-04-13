@@ -84,6 +84,19 @@ h1 {
   color: #fff;
 }
 
+/* For the Game Detail page image */
+#game-image {
+  width: 80%; /* Set a smaller width */
+  max-width: 400px; /* Limit the maximum width */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #game-description {
   font-size: 1.1em;
   margin-bottom: 20px;
