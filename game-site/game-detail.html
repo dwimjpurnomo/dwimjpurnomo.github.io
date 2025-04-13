@@ -36,7 +36,9 @@
 
       function submitForm() {
         const formUrl = `https://docs.google.com/forms/d/e/1FAIpQLSeGccAmYmYspWKp9P4JfL5FSVsPMwR3DSF8-8dAKEcowVMHXg/viewform?usp=pp_url&entry.1065046570=${encodeURIComponent(gameId)}`;
-        window.location.href = formUrl;
+        
+          // Open the form in a new tab
+        window.open(formUrl, '_blank');
       }
   </script>
 </body>
