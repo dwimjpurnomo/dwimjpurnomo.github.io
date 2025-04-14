@@ -49,7 +49,7 @@
           const rewardsList = document.getElementById("game-rewards");
           game.rewards.forEach(reward => {
             const li = document.createElement('li');
-            li.textContent = reward;
+            li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
             rewardsList.appendChild(li);
           });
         }
