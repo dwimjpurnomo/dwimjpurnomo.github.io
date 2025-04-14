@@ -92,23 +92,12 @@ h1 {
 }
 
 .footer-branding {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   text-align: right;
   padding: 20px;
   color: #666;
   background-color: #f5f5f5;
 }
-
-.footer-branding a {
-  color: #666;
-  text-decoration: none;
-}
-
-.footer-branding a:hover {
-  text-decoration: underline;
-}
-
-
 
 .game-card:hover {
   transform: translateY(-4px);
