@@ -40,6 +40,13 @@ h1 {
   transition: transform 0.2s ease;
 }
 
+.site-logo {
+  display: block;
+  max-width: 180px;
+  height: auto;
+  margin: 20px auto 10px auto; /* top | right | bottom | left */
+}
+
 .game-card:hover {
   transform: translateY(-4px);
 }
