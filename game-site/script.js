@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const li = document.createElement('li');
             if (typeof reward === "object") {
               li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
-            } else {
+              } else {
               li.textContent = reward;
             }
             gameRewards.appendChild(li);
