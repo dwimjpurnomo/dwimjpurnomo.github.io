@@ -45,7 +45,7 @@ h1 {
   padding: 10px 20px;
   display: flex;
   align-items: center;
-  gap: 10px;
+  justify-content: space-between;
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
   margin-bottom: 20px;
 }
@@ -55,10 +55,20 @@ h1 {
   width: auto;
 }
 
-.site-title {
-  font-size: 1.3rem;
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links a {
   color: white;
-  font-weight: bold;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: #70b8ff;
 }
 
 .game-card:hover {
