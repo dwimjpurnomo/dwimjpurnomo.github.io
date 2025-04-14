@@ -44,14 +44,13 @@ document.addEventListener("DOMContentLoaded", () => {
           gameTitle.textContent = game.title;
           if (gameImage) gameImage.src = game.image;
           gameDescription.textContent = game.description;
-          
-      game.rewards.forEach(reward => {
-        const li = document.createElement('li');
-        li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
-        gameRewards.appendChild(li);
-      });
-          
+          game.rewards.forEach(reward => {
+            const li = document.createElement('li');
+            li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
+            gameRewards.appendChild(li);
+          });
         }
       }
+      
     });
 });
