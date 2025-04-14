@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <img src="${game.image}" alt="${game.title}" class="game-image"/>
             </a>
             <div class="game-title">${game.title}</div>
-            <div class="max-earning">$${maxEarning.toFixed(2)}</div>
+            <div class="max-earning">Get up to ${game.rewards.length ? `${game.rewards[0].currency} ${Math.max(...game.rewards.map(r => r.number)).toFixed(2)}` : 'N/A'}</div>
             <button class="play-button" onclick="location.href='game-detail.html?id=${game.id}'">Lebih detil dan mainkan</button>
           `;
           gameList.appendChild(card);
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
           gameDescription.textContent = game.description;
           game.rewards.forEach(reward => {
             const li = document.createElement('li');
-            li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
+            li.textContent = `${reward.currency}${reward.number} ketika menyelesaikan ${reward.level}`;
             gameRewards.appendChild(li);
           });
         }
