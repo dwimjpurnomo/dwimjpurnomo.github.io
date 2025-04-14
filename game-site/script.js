@@ -11,6 +11,16 @@ document.addEventListener("DOMContentLoaded", () => {
       // Home page game list
       if (gameList) {
         games.forEach((game) => {
+
+          let maxEarning = 0;
+          if (Array.isArray(game.rewards)) {
+            if (typeof game.rewards[0] === "object") {
+              maxEarning = Math.max(...game.rewards.map(r => r.number));
+            } else {
+              maxEarning = Math.max(...game.rewards.map(r => parseFloat(r.split(' ')[0].replace('$', ''))));
+            }
+          }
+          
           const card = document.createElement("div");
           card.className = "game-card";
           card.innerHTML = `
