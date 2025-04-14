@@ -35,6 +35,8 @@
   </div>
 
   <script>
+
+    <!--
     const params = new URLSearchParams(window.location.search);
     const gameId = params.get('id');
 
@@ -54,7 +56,8 @@
           });
         }
       });
-
+-->
+  
     function submitForm() {
       const formUrl = `https://docs.google.com/forms/d/e/1FAIpQLSeGccAmYmYspWKp9P4JfL5FSVsPMwR3DSF8-8dAKEcowVMHXg/viewform?usp=pp_url&entry.1065046570=${encodeURIComponent(gameId)}`;
       window.open(formUrl, '_blank');
@@ -65,6 +68,8 @@
     }
   </script>
 
+  <script src="script.js"></script>
+  
   <footer class="site-footer">
   <div class="footer-container">
      
