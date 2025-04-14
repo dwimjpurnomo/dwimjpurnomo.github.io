@@ -47,11 +47,13 @@ document.addEventListener("DOMContentLoaded", () => {
           
           game.rewards.forEach(reward => {
             const li = document.createElement('li');
-            if (typeof reward === "object") {
-              li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
-              } else {
-              li.textContent = reward;
+            
+            if (typeof reward === "object" && reward.number !== undefined && reward.currency && reward.level) {
+              li.textContent = `${reward.currency}${reward.number.toFixed(2)} - ${reward.level}`;
+            } else {
+              li.textContent = String(reward); // fallback for old plain-text format
             }
+            
             gameRewards.appendChild(li);
           });
           
