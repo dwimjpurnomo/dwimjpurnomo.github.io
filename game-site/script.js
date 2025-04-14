@@ -44,6 +44,19 @@ document.addEventListener("DOMContentLoaded", () => {
           gameTitle.textContent = game.title;
           if (gameImage) gameImage.src = game.image;
           gameDescription.textContent = game.description;
+
+    let totalEarning = 0;
+    let currency = '';
+    if (Array.isArray(game.rewards) && game.rewards.length > 0) {
+      totalEarning = game.rewards.reduce((sum, r) => sum + r.number, 0);
+      currency = game.rewards[0].currency || '';
+    }
+
+    document.getElementById("game-id").textContent = game.id;
+
+    document.getElementById("total-earning").innerHTML =
+      `<strong>Dapatkan hingga:</strong> ${currency}${totalEarning.toFixed(2)}`;
+
           game.rewards.forEach(reward => {
             const li = document.createElement('li');
             li.textContent = `${reward.currency}${reward.number} ketika menyelesaikan ${reward.level}`;
