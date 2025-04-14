@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <img src="${game.image}" alt="${game.title}" class="game-image"/>
             </a>
             <div class="game-title">${game.title}</div>
-            <div class="max-earning">$${Math.max(...game.rewards.map(r => parseFloat(r.split(' ')[0])))}</div>
+            <div class="max-earning">$${maxEarning.toFixed(2)}</div>
             <button class="play-button" onclick="location.href='game-detail.html?id=${game.id}'">Lebih detil dan mainkan</button>
           `;
           gameList.appendChild(card);
@@ -44,11 +44,17 @@ document.addEventListener("DOMContentLoaded", () => {
           gameTitle.textContent = game.title;
           if (gameImage) gameImage.src = game.image;
           gameDescription.textContent = game.description;
+          
           game.rewards.forEach(reward => {
             const li = document.createElement('li');
-            li.textContent = reward;
+            if (typeof reward === "object") {
+              li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
+            } else {
+              li.textContent = reward;
+            }
             gameRewards.appendChild(li);
           });
+          
         }
       }
     });
