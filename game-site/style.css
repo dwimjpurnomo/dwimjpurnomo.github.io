@@ -79,6 +79,14 @@ h1 {
   border-top: 1px solid #2c2c2c;
 }
 
+.footer-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
 .footer-links a {
   color: #ccc;
   margin: 0 12px;
@@ -97,6 +105,19 @@ h1 {
   padding: 20px;
   color: #ccc;
   background-color: #111827;
+}
+
+/* Mobile responsive: stack footer links vertically */
+@media (max-width: 480px) {
+  .footer-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-branding {
+    text-align: center;
+    margin-top: 10px;
+  }
 }
 
 .game-card:hover {
