@@ -170,6 +170,7 @@ button:hover {
   border: none;
   color: #fff; /* or any text color you prefer */
   font-size: 1.2rem;
+  text-decoration: none; /* removes underline */
   cursor: pointer;
   padding: 0;
   margin-bottom: 20px;
@@ -180,6 +181,7 @@ button:hover {
 #back-button::before {
   content: "←";
   margin-right: 8px;
+  text-decoration: none; /* removes underline */
   font-size: 1.3rem;
 }
 
