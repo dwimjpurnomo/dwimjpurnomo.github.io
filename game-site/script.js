@@ -44,9 +44,9 @@ document.addEventListener("DOMContentLoaded", () => {
           gameTitle.textContent = game.title;
           if (gameImage) gameImage.src = game.image;
           gameDescription.textContent = game.description;
-          game.rewards.forEach(reward => {
+          game.rewards.forEach(rewards => {
             const li = document.createElement('li');
-            li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
+            li.textContent = `${rewards.currency}${rewards.number} ${rewards.level}`;
             gameRewards.appendChild(li);
           });
         }
