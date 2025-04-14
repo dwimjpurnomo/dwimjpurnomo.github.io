@@ -166,10 +166,10 @@ h1 {
 }
 
 .highlight-box {
-  background-color: rgba(255, 255, 255, 1.0); /* subtle transparency */
+  background-color: rgba(255, 255, 255, 0.1); /* subtle transparency */
   padding: 15px 20px;
   border-radius: 10px;
-  margin-top: 8px; /* Reduce gap from title */
+  margin-top: 0px; /* Reduce gap from title */
   margin-bottom: 20px;
   text-align: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
