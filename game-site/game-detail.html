@@ -34,30 +34,7 @@
     <button id="request-play" class="play-button" onclick="submitForm()">Pilih permainan ini</button>
   </div>
 
-  <script>
-
-    <!--
-    const params = new URLSearchParams(window.location.search);
-    const gameId = params.get('id');
-
-    fetch('data.json')
-      .then((response) => response.json())
-      .then((games) => {
-        const game = games.find(g => g.id === gameId);
-        if (game) {
-          document.getElementById("game-title").textContent = game.title;
-          document.getElementById("game-image").src = game.image;
-          document.getElementById("game-description").textContent = game.description;
-          const rewardsList = document.getElementById("game-rewards");
-          game.rewards.forEach(reward => {
-            const li = document.createElement('li');
-            li.textContent = `${reward.currency}${reward.number} ${reward.level}`;
-            rewardsList.appendChild(li);
-          });
-        }
-      });
--->
-  
+  <script> 
     function submitForm() {
       const formUrl = `https://docs.google.com/forms/d/e/1FAIpQLSeGccAmYmYspWKp9P4JfL5FSVsPMwR3DSF8-8dAKEcowVMHXg/viewform?usp=pp_url&entry.1065046570=${encodeURIComponent(gameId)}`;
       window.open(formUrl, '_blank');
