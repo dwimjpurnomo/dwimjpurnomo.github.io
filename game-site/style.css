@@ -206,12 +206,6 @@ h1 {
   padding: 20px;
 }
 
-.contact-page .container {
-  max-width: 600px;
-  margin: 40px auto;
-  padding: 20px;
-}
-
 .game-image {
   width: 100%;
   height: auto; /* Controls vertical size */
