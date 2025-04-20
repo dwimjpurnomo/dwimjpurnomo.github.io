@@ -1,3 +1,6 @@
+// Store the selected game globally so submitForm() can access it
+let selectedGame = null;
+
 document.addEventListener("DOMContentLoaded", () => {
   const gameList = document.getElementById("game-list");
   const gameTitle = document.getElementById("game-title");
@@ -35,35 +38,37 @@ document.addEventListener("DOMContentLoaded", () => {
         });
       }
 
-      // Detail page
+      // === Detail page ===
       const params = new URLSearchParams(window.location.search);
       const gameId = params.get('id');
+
       if (gameId && gameTitle && gameDescription && gameRewards) {
-        const game = games.find(g => g.id === gameId);
-        if (game) {
-          gameTitle.textContent = game.title;
-          if (gameImage) gameImage.src = game.image;
-          gameDescription.textContent = game.description;
+        selectedGame = games.find(g => g.id === gameId);
+        if (selectedGame) {
+          gameTitle.textContent = selectedGame.title;
+          if (gameImage) gameImage.src = selectedGame.image;
+          gameDescription.textContent = selectedGame.description;
 
-    let totalEarning = 0;
-    let currency = '';
-    if (Array.isArray(game.rewards) && game.rewards.length > 0) {
-      totalEarning = game.rewards.reduce((sum, r) => sum + r.number, 0);
-      currency = game.rewards[0].currency || '';
-    }
+          let totalEarning = 0;
+          let currency = '';
+          if (Array.isArray(selectedGame.rewards) && selectedGame.rewards.length > 0) {
+            totalEarning = selectedGame.rewards.reduce((sum, r) => sum + r.number, 0);
+            currency = selectedGame.rewards[0].currency || '';
+          }
 
-    document.getElementById("game-id").textContent = game.id;
+          document.getElementById("game-id").textContent = selectedGame.id;
 
-    document.getElementById("total-earning").innerHTML =
-      `<strong>Dapatkan hingga:</strong> ${currency}${totalEarning.toFixed(2)}`;
+          document.getElementById("total-earning").innerHTML =
+            `<strong>Dapatkan hingga:</strong> ${currency}${totalEarning.toFixed(2)}`;
 
-          game.rewards.forEach(reward => {
+          selectedGame.rewards.forEach(reward => {
             const li = document.createElement('li');
             li.textContent = `${reward.currency}${reward.number} ketika menyelesaikan ${reward.level}`;
             gameRewards.appendChild(li);
           });
         }
       }
+      // === End of Detail page ===
       
     });
 });
