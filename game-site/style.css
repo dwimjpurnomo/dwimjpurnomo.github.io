@@ -189,7 +189,7 @@ h1 {
 .rules-text {
   flex: 2;
   min-width: 300px;
-  padding-left: 2rem; /* Increase this value as needed */
+  margin-left: 2rem; /* Increase this value as needed */
 }
 
 .rules-image {
