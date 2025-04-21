@@ -189,7 +189,7 @@ h1 {
 .rules-text {
   flex: 2;
   min-width: 300px;
-  margin-left: 2rem; /* Increase this value as needed */
+   /* margin-left: 2rem;Increase this value as needed */
 }
 
 .rules-image {
@@ -199,7 +199,7 @@ h1 {
 }
 
 .rules-image img {
-  width: 150%;
+  width: 120%;
   height: auto;
   border-radius: 12px; /* optional: make image look nicer */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
