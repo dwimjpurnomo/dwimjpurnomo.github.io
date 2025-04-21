@@ -198,7 +198,7 @@ h1 {
 }
 
 .rules-image img {
-  width: 120%;
+  width: 150%;
   height: auto;
   border-radius: 12px; /* optional: make image look nicer */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -225,9 +225,8 @@ h1 {
 
   .rules-image {
     margin-top: 1rem;
-    width: 100%;
+    min-width: 250px;
    /*  max-width: 480px; adjust this value as needed */
-    height: auto;
   }
 
   .rules-image img {
