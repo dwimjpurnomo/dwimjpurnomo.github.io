@@ -200,7 +200,7 @@ h1 {
 }
 
 .rules-image img {
-  max-width: 150%;
+  max-width: 100%;
   height: auto;
   border-radius: 12px; /* optional: make image look nicer */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
