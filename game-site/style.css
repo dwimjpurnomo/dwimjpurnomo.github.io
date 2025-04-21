@@ -227,11 +227,13 @@ h1 {
   .rules-image {
     margin-top: 1rem;
     width: 50%;
-    max-width: 300px; /* adjust this value as needed */
+    max-width: 100px; /* adjust this value as needed */
+    height: auto;
   }
 
   .rules-image img {
     width: 50%;
+    max-width: 100px; /* adjust this value as needed */
     height: auto;
     display: block;
   }
