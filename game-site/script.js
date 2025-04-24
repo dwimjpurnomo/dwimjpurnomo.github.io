@@ -57,6 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
           }
 
           document.getElementById("game-id").textContent = selectedGame.id;
+           document.getElementById("dead-line").textContent = selectedGame.deadline;
 
           document.getElementById("total-earning").innerHTML =
             `<strong>Dapatkan hingga:</strong> ${currency}${totalEarning.toFixed(2)}`;
