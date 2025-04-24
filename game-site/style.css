@@ -295,9 +295,14 @@ h1 {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.highlight-box .play-button {
-  margin-top: 10px;
+.highlight-box p {
+  margin: 0.4rem 0;
 }
+
+.highlight-box .play-button {
+  margin: 1.0rem 0;
+}
+
 
 
 #game-title {
