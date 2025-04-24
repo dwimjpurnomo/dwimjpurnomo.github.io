@@ -57,10 +57,8 @@ document.addEventListener("DOMContentLoaded", () => {
           }
 
           document.getElementById("game-id").textContent = selectedGame.id;
-           document.getElementById("dead-line").textContent = selectedGame.deadline;
-
-          document.getElementById("total-earning").innerHTML =
-            `<strong>Dapatkan hingga:</strong> ${currency}${totalEarning.toFixed(2)}`;
+          document.getElementById("dead-line").textContent = selectedGame.deadline;
+          document.getElementById("total-earning").textContent = `${currency}${totalEarning.toFixed(2)}`;
 
           selectedGame.rewards.forEach(reward => {
             const li = document.createElement('li');
