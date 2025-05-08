@@ -9,72 +9,72 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start the game"
       },
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish the first location in the first world"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish the fourth location in the first world"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the first world"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the second world"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the third world"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the fourth world"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the sixth world"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the eighth world"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the tenth world"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the twelfth world"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the 16th world"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the 18th world"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish all locations in the 20th world"
       }
     ]
@@ -89,67 +89,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 150"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 200"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 300"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 400"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 600"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 900"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1100"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1500"
       }
     ]
@@ -164,47 +164,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 2"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 10"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 30"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 50"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 75"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 125"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 250"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 500"
       }
     ]
@@ -219,57 +219,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 5"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 40"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach 1B coins"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach 5B coins"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach 10B coins"
       }
     ]
@@ -284,57 +284,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Game Tutorial"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock any Level II Troops"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach City Hall Level 8"
       },
       {
         "number": 12750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach City Hall Level 12"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock any Level III Troops"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 1 Million"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach City Hall Level 20"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 2 Million"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock any Level IV Troops"
       },
       {
         "number": 1500000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock any Level V Troops"
       }
     ]
@@ -345,71 +345,71 @@
     "image": "imagesc/sc1677.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "MU: Dark Epoch adalah game mobile MMORp. G fantasi yang menggabungkan gameplay berkualitas tinggi, serba cepat, dan fitur inovatif. Sebagai angsuran MU terbaik dalam seri ini, ia menawarkan kostum dinamis yang mengesankan dan kinerja grafis yang menakjubkan. Masuk sekarang dan menangkan set Malaikangan!",
+    "description": "MU: Dark Epoch adalah game mobile MMORp G fantasi yang menggabungkan gameplay berkualitas tinggi, serba cepat, dan fitur inovatif. Sebagai angsuran MU terbaik dalam seri ini, ia menawarkan kostum dinamis yang mengesankan dan kinerja grafis yang menakjubkan. Masuk sekarang dan menangkan set Malaikangan!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 15 within 7 days"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 60 within 7 days"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 98 within 7 days"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 129 within 7 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 141 within 7 days"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 167 within 7 days"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 182 within 15 days"
       },
       {
         "number": 16500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 199 within 15 days"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 213 within 15 days"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 248 within 30 days"
       },
       {
         "number": 90000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 270 within 30 days"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Character level 318 within 30 days"
       }
     ]
@@ -424,42 +424,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 3"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 5"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 10"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 20"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 30"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 40"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 50"
       }
     ]
@@ -474,62 +474,62 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 225.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 525.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 70"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 150"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 250"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 450"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 600"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1000"
       }
     ]
@@ -544,72 +544,72 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 150.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete the tutorial"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 4 Kingdoms within 2 days"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 5 Kingdoms"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 10 Kingdoms"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 20 Kingdoms"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 30 Kingdoms within 4 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 40 Kingdoms"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 51 Kingdoms within 9 days"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 71 Kingdoms within 11 days"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 90 Kingdoms"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 150 Kingdoms within 23 days"
       },
       {
         "number": 525000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock 250 Kingdoms"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish Dream Pass"
       }
     ]
@@ -624,102 +624,102 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 5"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 10"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 20"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 30"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 40"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 50"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 75"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 105"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 135"
       }
     ]
   },
   {
     "id": "sc1766",
-    "title": "MARVEL Strike Force: Squad Rp. G",
+    "title": "MARVEL Strike Force: Squad Rp G",
     "image": "imagesc/sc1766.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Bangun pasukan pahlawan super dan penjahat Anda sendiri dari Marvel Universe dan hadapi ultimus dalam pertarungan Rp. G epik! \n Nasib dunia ada di tangan Anda memainkan Marvel Strike Force! Bekerja sama dengan Marvel Super Heroes dan Super Villains dalam permainan gratis yang penuh aksi dan menakjubkan ini untuk iPhone atau iPad. Pertahanan Bumi melawan ancaman legendaris Marvel dengan membangun tim karakter Marvel dari setiap sudut multiverse seperti Doctor Strange, Loki, Venom, Spider-Man, Captain America, Iron Man, dan banyak lagi.",
+    "description": "Bangun pasukan pahlawan super dan penjahat Anda sendiri dari Marvel Universe dan hadapi ultimus dalam pertarungan Rp G epik! \n Nasib dunia ada di tangan Anda memainkan Marvel Strike Force! Bekerja sama dengan Marvel Super Heroes dan Super Villains dalam permainan gratis yang penuh aksi dan menakjubkan ini untuk iPhone atau iPad. Pertahanan Bumi melawan ancaman legendaris Marvel dengan membangun tim karakter Marvel dari setiap sudut multiverse seperti Doctor Strange, Loki, Venom, Spider-Man, Captain America, Iron Man, dan banyak lagi.",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 3 within 24 hours"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15 within 10 days"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30 within 14 days"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 50 within 21 days"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 70 within 25 days"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 100 within 40 days"
       }
     ]
@@ -734,57 +734,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 20"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 50"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 100"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 200"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 300"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 500"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 800"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 1500"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 2000"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Wave 3000"
       }
     ]
@@ -799,52 +799,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade your city to level 8"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 300k (You need to re-login to receive the reward)"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 500k (You need to re-login to receive the reward)"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 1M (You need to re-login to receive the reward)"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 1.5M (You need to re-login to receive the reward)"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 2M (You need to re-login to receive the reward)"
       },
       {
         "number": 450000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 3M (You need to re-login to receive the reward)"
       },
       {
         "number": 600000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 5M (You need to re-login to receive the reward)"
       },
       {
         "number": 1500000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Power 80M (You need to re-login to receive the reward)"
       }
     ]
@@ -859,52 +859,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game and allow tracking"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 4"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 6"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 8"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 11"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 16"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 19"
       },
       {
         "number": 90000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 21"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 23"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 25"
       }
     ]
@@ -915,76 +915,76 @@
     "image": "imagesc/sc2117.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Selamat datang di Ava's Manor - peRp. aduan yang mempesona antara Solitaire, Misteri, dan Romantis!  Benamkan diri Anda dalam kisah menawan ini di mana Anda akan memulai perjalanan yang menyenangkan dari permainan kartu Solitaire, teka -teki, dan kisah romansa yang mengharukan. \nBenamkan diri Anda di dunia tripeaks solitaire, permainan kartu yang dinamis dan menyenangkan yang cocok untuk pemain dari setiap tingkat keterampilan. Tantang otak Anda dengan merangsang permainan kartu online yang meningkatkan keterampilan kognitif Anda, atau beristirahat dengan santai sambil menikmati grafik permainan yang indah dari Ava's Manor. Apakah Anda mendambakan latihan mental atau sesi permainan yang santai, tripeaks solitaire memberikan keseimbangan sempurna antara hiburan dan keterlibatan otak untuk pengalaman bermain kartu yang memuaskan.",
+    "description": "Selamat datang di Ava's Manor - peRp aduan yang mempesona antara Solitaire, Misteri, dan Romantis!  Benamkan diri Anda dalam kisah menawan ini di mana Anda akan memulai perjalanan yang menyenangkan dari permainan kartu Solitaire, teka -teki, dan kisah romansa yang mengharukan. \nBenamkan diri Anda di dunia tripeaks solitaire, permainan kartu yang dinamis dan menyenangkan yang cocok untuk pemain dari setiap tingkat keterampilan. Tantang otak Anda dengan merangsang permainan kartu online yang meningkatkan keterampilan kognitif Anda, atau beristirahat dengan santai sambil menikmati grafik permainan yang indah dari Ava's Manor. Apakah Anda mendambakan latihan mental atau sesi permainan yang santai, tripeaks solitaire memberikan keseimbangan sempurna antara hiburan dan keterlibatan otak untuk pengalaman bermain kartu yang memuaskan.",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 45"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 180"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 241"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 301"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 505"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 700"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 950"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1500"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2500"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 3500"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 4500"
       }
     ]
@@ -999,67 +999,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 3"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 7"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 25"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 35"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 40"
       },
       {
         "number": 262500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 45"
       },
       {
         "number": 450000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 50"
       }
     ]
@@ -1074,67 +1074,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 300"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 400"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 600"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1000"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1500"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2000"
       },
       {
         "number": 525000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2500"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 3000"
       },
       {
         "number": 1125000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 5000"
       }
     ]
@@ -1149,72 +1149,72 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 150.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 40"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 150"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 200"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 450"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 600"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 850"
       }
     ]
@@ -1229,57 +1229,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5 within 1 day"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15 within 3 days"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 35 within 4 days"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 75 within 7 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 100"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 150"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 250"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 500"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 750"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 1000"
       }
     ]
@@ -1294,52 +1294,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 10 levels"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 20 levels"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 30 levels"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 50 levels"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 70 levels"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 140 levels"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 300 levels"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 400 levels"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 800 levels"
       }
     ]
@@ -1354,67 +1354,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 4"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 6"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 8"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 14"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 16"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 18"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -1429,52 +1429,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 300.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 3"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 7 within 20 mins"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 8 within 7 days"
       },
       {
         "number": 12000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 10 within 10 days"
       },
       {
         "number": 15750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 12"
       },
       {
         "number": 20250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 13"
       },
       {
         "number": 31500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 14"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 17"
       },
       {
         "number": 262500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 20 within 30 days"
       }
     ]
@@ -1489,67 +1489,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach castle Level 5 within 30 mins"
       },
       {
         "number": 6750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach castle Level 76 within 3 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach castle Level 230 within 11 days"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Get the hero \"Miku\""
       },
       {
         "number": 13500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Kill Titans of any level 30 times in rallies you initiated within 3 days"
       },
       {
         "number": 16500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Kill Titans of any level 90 times in rallies you initiated within 6 days"
       },
       {
         "number": 24750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Kill Titans of any level 250 times in rallies you initiated within 14 days"
       },
       {
         "number": 135000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Promote any 1 Hero to 4 Stars within 19 days"
       },
       {
         "number": 337500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach castle Level 1300 within 27 days"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Obtain 14000 Purchase Points in total within 20 days"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Obtain 56000 Purchase Points in total within 20 days"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Obtain 280000 Purchase Points in total"
       }
     ]
@@ -1564,42 +1564,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 5"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 10"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 15"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 30"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 50"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 70"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 90"
       }
     ]
@@ -1610,61 +1610,61 @@
     "image": "imagesc/sc2196.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Selamat datang di jalan -jalan Hollywood yang mempesona, di mana Anda dapat memulai perjalanan menjadi bintang yang tidak seperti yang lain! \n \nBuat jalan Anda yang terkenal saat Anda bangkit melalui jajaran Hollywood, mendominasi kaRp. et merah, berbaur dengan penggemar dan selebriti, dan menciptakan kerajaan mode Anda sendiri. Menjadi ikon Hollywood terbaik!",
+    "description": "Selamat datang di jalan -jalan Hollywood yang mempesona, di mana Anda dapat memulai perjalanan menjadi bintang yang tidak seperti yang lain! \n \nBuat jalan Anda yang terkenal saat Anda bangkit melalui jajaran Hollywood, mendominasi kaRp et merah, berbaur dengan penggemar dan selebriti, dan menciptakan kerajaan mode Anda sendiri. Menjadi ikon Hollywood terbaik!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5 within 24 hours"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 8 within 2 days"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10 within 3 days"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 13 within 5 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15 within 5 days"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20 within 10 days"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30 within 17 days"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 40 within 21 days"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 50"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 70"
       }
     ]
@@ -1675,76 +1675,76 @@
     "image": "imagesc/sc1511.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Apakah Anda siap untuk game simulator penambangan adiktif baru - Goblins Wood: Lumber Tycoon? Bergabunglah dengan petualangan gabungan idle yang menarik ini dan nikmati banyak level yang menantang! \n 🚆 Perluas Kerajaan Kereta Anda: BeRp. artisipasi dalam acara khusus dan membantu goblin untuk mengembangkan kereta api, mengelola kereta, membangun trek baru dan menyesuaikan kereta untuk meningkatkan efisiensi dan daya mereka.",
+    "description": "Apakah Anda siap untuk game simulator penambangan adiktif baru - Goblins Wood: Lumber Tycoon? Bergabunglah dengan petualangan gabungan idle yang menarik ini dan nikmati banyak level yang menantang! \n 🚆 Perluas Kerajaan Kereta Anda: BeRp artisipasi dalam acara khusus dan membantu goblin untuk mengembangkan kereta api, mengelola kereta, membangun trek baru dan menyesuaikan kereta untuk meningkatkan efisiensi dan daya mereka.",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 225.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 3"
       },
       {
         "number": 525.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 5"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 7"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 10"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 13"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 15"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 20"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 25"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 30"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 40"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 50"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 60"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 70"
       }
     ]
@@ -1759,42 +1759,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade Dusk Palace to level 4"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade Dusk Palace to level 9"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete chapter 13 in Match 3"
       },
       {
         "number": 41250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade Dusk Palace to level 19 in 16 days"
       },
       {
         "number": 48750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete chapter 23 in Match 3"
       },
       {
         "number": 135000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade Dusk Palace to level 26"
       },
       {
         "number": 337500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade Dusk Palace to level 35"
       }
     ]
@@ -1805,56 +1805,56 @@
     "image": "imagesc/sc1767.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Dunia manusia telah berakhir; Usia kera telah dimulai! Monyet beRp. erang untuk meluncurkan roket ke luar angkasa untuk mencari ... pisang! Menjadi bagian dari klan terkuat, ciptakan geng Anda sendiri, perang dengan kera lain, dan jadilah monyet pertama yang menjelajahi galaksi! Imbalan yang mulia menunggu mereka yang cukup berani untuk beRp. erang di zaman kera!",
+    "description": "Dunia manusia telah berakhir; Usia kera telah dimulai! Monyet beRp erang untuk meluncurkan roket ke luar angkasa untuk mencari ... pisang! Menjadi bagian dari klan terkuat, ciptakan geng Anda sendiri, perang dengan kera lain, dan jadilah monyet pertama yang menjelajahi galaksi! Imbalan yang mulia menunggu mereka yang cukup berani untuk beRp erang di zaman kera!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the City Hall to Level 7 within 1 day"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock any T2 unit within 1 day"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the City Hall to Level 10 within 2 days"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach 1000000 power within 11 days"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the City Hall to Level 20 within 18 days"
       },
       {
         "number": 97500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock any T3 unit within 15 days"
       },
       {
         "number": 232500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach 5000000 power within 25 days"
       },
       {
         "number": 330000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock any T4 unit within 28 days"
       },
       {
         "number": 412500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the City Hall to Level 25"
       }
     ]
@@ -1869,47 +1869,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 12"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 25"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 45"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 65"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 131"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 200"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 300"
       },
       {
         "number": 525000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 400"
       }
     ]
@@ -1924,62 +1924,62 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 2"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 4"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 5"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 8"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 12"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 15"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 20"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 30"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 40"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 50"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish crop 60"
       }
     ]
@@ -1990,76 +1990,76 @@
     "image": "imagesc/sc2286.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Apakah Anda siap untuk game simulator penambangan adiktif baru - Goblins Wood: Lumber Tycoon? Bergabunglah dengan petualangan gabungan idle yang menarik ini dan nikmati banyak level yang menantang! \n 🚆 Perluas Kerajaan Kereta Anda: BeRp. artisipasi dalam acara khusus dan membantu goblin untuk mengembangkan kereta api, mengelola kereta, membangun trek baru dan menyesuaikan kereta untuk meningkatkan efisiensi dan daya mereka.",
+    "description": "Apakah Anda siap untuk game simulator penambangan adiktif baru - Goblins Wood: Lumber Tycoon? Bergabunglah dengan petualangan gabungan idle yang menarik ini dan nikmati banyak level yang menantang! \n 🚆 Perluas Kerajaan Kereta Anda: BeRp artisipasi dalam acara khusus dan membantu goblin untuk mengembangkan kereta api, mengelola kereta, membangun trek baru dan menyesuaikan kereta untuk meningkatkan efisiensi dan daya mereka.",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 225.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 3"
       },
       {
         "number": 525.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 5"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 7"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 8"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 10"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 11"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 13"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 15"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 20"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 25"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 30"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 40"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 50"
       }
     ]
@@ -2074,62 +2074,62 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 3"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 9"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 12"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 14"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 17"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 19"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 23"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 32"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 37"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 43"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade the Abyssal Fortress to level 46"
       }
     ]
@@ -2140,41 +2140,41 @@
     "image": "imagesc/sc2318.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Skip-Bo ™ adalah permainan kartu yang menyenangkan dan kompetitif untuk semua pecinta permainan kartu, dan sekarang secara resmi tersedia di ponsel！ \nPandangan baru tentang permainan kartu Solitaire klasik ini akan membuat Anda ketagihan dan Anda tidak akan bisa berhenti bermain! \nMirip dengan Sudoku dan pewarnaan, Skip-Bo ™ mengharuskan pemain untuk beRp. ikir secara strategis untuk menyelesaikan masalah. Dengan aturan sederhana dan gameplay yang menarik, itu telah menjadi taipan di dunia permainan kartu, dinikmati oleh pemain dari segala usia dan tingkat keterampilan.",
+    "description": "Skip-Bo ™ adalah permainan kartu yang menyenangkan dan kompetitif untuk semua pecinta permainan kartu, dan sekarang secara resmi tersedia di ponsel！ \nPandangan baru tentang permainan kartu Solitaire klasik ini akan membuat Anda ketagihan dan Anda tidak akan bisa berhenti bermain! \nMirip dengan Sudoku dan pewarnaan, Skip-Bo ™ mengharuskan pemain untuk beRp ikir secara strategis untuk menyelesaikan masalah. Dengan aturan sederhana dan gameplay yang menarik, itu telah menjadi taipan di dunia permainan kartu, dinikmati oleh pemain dari segala usia dan tingkat keterampilan.",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 1 level 21"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 1 level 60"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 2 level 32"
       },
       {
         "number": 13500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 2 level 90"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 3 level 70"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 4 level 100"
       }
     ]
@@ -2189,62 +2189,62 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the Game"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 4 in Chapter 1"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 1 in Chapter 2"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 1 in Chapter 3"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 2 in Chapter 4"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 1 in Chapter 8"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 1 in Chapter 12"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 2  in Chapter 16"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 1 in Chapter 18"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 2 in Chapter 22"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 1 in Chapter 30"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Scene 1 in Chapter 40"
       }
     ]
@@ -2259,42 +2259,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing using the APK file"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Make a deposit of $10 or more"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Play 5 Games within 2 days"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Play 50 Games within 5 days"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Win 10 Games within 3 days"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Win 200 Games within 10 days"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Win 500 Games within 14 days"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Win 1000 Games within 20 days"
       }
     ]
@@ -2305,66 +2305,66 @@
     "image": "imagesc/sc1931.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Selamat datang di Yatzy Cards, peRp. aduan utama dari permainan kartu klasik dan strategis klasik! Tantang teman dan pemain di seluruh dunia dalam duel Yatzy berbasis kartu yang mendebarkan. Apakah Anda siap menjadi master yatzy? \n Gameplay yatzy berbasis kartu yang unik",
+    "description": "Selamat datang di Yatzy Cards, peRp aduan utama dari permainan kartu klasik dan strategis klasik! Tantang teman dan pemain di seluruh dunia dalam duel Yatzy berbasis kartu yang mendebarkan. Apakah Anda siap menjadi master yatzy? \n Gameplay yatzy berbasis kartu yang unik",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 4"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 6"
       },
       {
         "number": 6750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 8"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 16"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 26"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -2379,52 +2379,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 40"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 60"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 80"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 100"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 200"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 300"
       },
       {
         "number": 337500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 500"
       },
       {
         "number": 750000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 850"
       },
       {
         "number": 1875000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 1000"
       }
     ]
@@ -2439,47 +2439,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock The Mill within 3 days"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Old Sam House within 5 days"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock The Harrisons Mansion within 7 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Fire Station within 14 days"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Antique Shop within 14 days"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Theatre within 21 days"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Clock Tower within 25 days"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Museum in the New City"
       }
     ]
@@ -2494,67 +2494,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 70"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       },
       {
         "number": 6750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 150"
       },
       {
         "number": 9750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 250"
       },
       {
         "number": 12750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 450"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 600"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1050"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2000"
       }
     ]
@@ -2569,47 +2569,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Login to the game"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Level up to Castle 5"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Level up to Castle 7"
       },
       {
         "number": 20250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Level up to Castle 10"
       },
       {
         "number": 48750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Level up to Castle 15"
       },
       {
         "number": 56250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Level up to Castle 22"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Level up to Castle 25"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Level up to Castle 30"
       }
     ]
@@ -2624,42 +2624,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10 within 7 days"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15 within 10 days"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 25 within 10 days"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30 within 30 days"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 50 within 30 days"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 70 within 30 days"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 100 within 30 days"
       }
     ]
@@ -2674,52 +2674,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 50"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 100"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 200"
       },
       {
         "number": 16500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 350"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 500"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 750"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 1000"
       }
     ]
@@ -2734,57 +2734,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 4"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 6"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 8"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 14"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 16"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -2799,52 +2799,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 225.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete the Tutorial"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the Livingroom"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the Kitchen"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the Baby Room"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the Green House"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the Poolside"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the Campsite"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the WorkShop"
       },
       {
         "number": 90000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach the Art Studio"
       }
     ]
@@ -2855,51 +2855,51 @@
     "image": "imagesc/sc1889.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Gabungan Islanders adalah peRp. aduan yang menawan dari permainan gabungan yang membawa Anda ke surga pulau teRp. encil. Rancang gaya hidup impian Anda, bangun sebuah rumah besar yang menakjubkan, dan temukan pasangan sempurna Anda!",
+    "description": "Gabungan Islanders adalah peRp aduan yang menawan dari permainan gabungan yang membawa Anda ke surga pulau teRp encil. Rancang gaya hidup impian Anda, bangun sebuah rumah besar yang menakjubkan, dan temukan pasangan sempurna Anda!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 2"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 3"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 5"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 7"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 8"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 12"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 15"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete day 19"
       }
     ]
@@ -2914,57 +2914,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 3 matches"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 18"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 22"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 28"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -2979,42 +2979,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Stone Age within 1 days"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Farm Age"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Modern Age"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Bronze Age within 8 days"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Cyborg Age within 25 days"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Alien Age II within 30 days"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Virtual Age II within 30 days"
       }
     ]
@@ -3029,72 +3029,72 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 150.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 40"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 150"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 200"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 450"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 600"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 850"
       }
     ]
@@ -3109,57 +3109,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 5 levels"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 15 levels"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 30 levels"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 50 levels"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 100 levels"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 200 levels"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 500 levels"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 800 levels"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 1200 levels"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 1600 levels"
       }
     ]
@@ -3174,57 +3174,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 12 of the hotel Golden Apple"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20 of the hotel Golden Apple"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 25 of the hotel Golden Apple"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 40 of the hotel Golden Apple"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 16 of the hotel Regrata"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 37 of the hotel Regrata"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60 of the hotel Regrata"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80 of the hotel Paradise Bay"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80 of the hotel Silver Pike"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80 of the hotel Melody Breeze"
       }
     ]
@@ -3239,47 +3239,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 12"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 25"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 44"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 79"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 121"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 214"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 306"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Achieve level 406"
       }
     ]
@@ -3294,47 +3294,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 60"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 100"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 350"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 500"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 800"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 1500"
       },
       {
         "number": 262500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 1800"
       }
     ]
@@ -3349,72 +3349,72 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete the Tutorial"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 1"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 2"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 3"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 4"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 6"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 8"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 10"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 12"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 15"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 18"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 23"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 30"
       }
     ]
@@ -3429,37 +3429,37 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 1 level 15"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 1 level 30"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 2 level 20"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 3 level 10"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 3 level 40"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 5 level 10"
       }
     ]
@@ -3474,52 +3474,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start Playing DesignVille: Merge & Story"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 1: Office Studio"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 2: Richlady Garden"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 3: Office Chillout"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 4: Richlady Bathroom"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 6: Artist Courtyard"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 8: Sheikh Garden"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 10: Artist Garret"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 15: Desert House"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open room 20: Surfer Bedroom"
       }
     ]
@@ -3534,67 +3534,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 1875.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50"
       },
       {
         "number": 2625.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 70"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 150"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 250"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 450"
       },
       {
         "number": 12750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 600"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1050"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2000"
       }
     ]
@@ -3609,47 +3609,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 7"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 12"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 17"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 23"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 25"
       },
       {
         "number": 97500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 28"
       },
       {
         "number": 135000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 31"
       },
       {
         "number": 262500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 35"
       }
     ]
@@ -3664,52 +3664,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 7"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 18"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 22"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 26"
       }
     ]
@@ -3724,42 +3724,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete registration"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10 within 7 days"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20 within 7 days"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30 within 7 days"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 40 within 7 days"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60"
       }
     ]
@@ -3774,62 +3774,62 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing PlayDoku"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 5 in Journey mode"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10 in Journey mode"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 25 in Journey mode"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 50 in Journey mode"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100 in Journey mode"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 200 in Journey mode"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 400 in Journey mode"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 800 in Journey mode"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1000 in Journey mode"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1600 in Journey mode"
       },
       {
         "number": 90000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2000 in Journey mode"
       }
     ]
@@ -3844,42 +3844,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Mainbuilding level 5"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Mainbuilding level 8"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Mainbuilding level 10"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Mainbuilding level 12"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Mainbuilding level 16"
       },
       {
         "number": 63750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Mainbuilding level 19"
       },
       {
         "number": 90000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Mainbuilding level 21"
       }
     ]
@@ -3894,107 +3894,107 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 40"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60"
       },
       {
         "number": 9750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 80"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 150"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 400"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 1200"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2400"
       }
     ]
   },
   {
     "id": "sc1674",
-    "title": "Empires & Puzzles: Match-3 Rp. G",
+    "title": "Empires & Puzzles: Match-3 Rp G",
     "image": "imagesc/sc1674.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Empires & Puzzles adalah permainan puzzle yang sama sekali baru, menggabungkan elemen Rp. G, pencarian PVE, dan pembangunan dasar-diakhiri dengan duel PvP epik yang berkisar dari serangan 1v1 yang memukau hingga perang 100V100 yang tidak berfungsi. \nMulailah petualangan fantasi Anda hari ini!",
+    "description": "Empires & Puzzles adalah permainan puzzle yang sama sekali baru, menggabungkan elemen Rp G, pencarian PVE, dan pembangunan dasar-diakhiri dengan duel PvP epik yang berkisar dari serangan 1v1 yang memukau hingga perang 100V100 yang tidak berfungsi. \nMulailah petualangan fantasi Anda hari ini!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 2: Complete within 2 days"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 3: Complete within 2 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 5: Complete within 5 days"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 10: Complete within 15 days"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 15: Complete within 20 days"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 20: Complete within 30 days"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 25: Complete within 75 days"
       },
       {
         "number": 262500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Level 30: Complete within 75 days"
       }
     ]
@@ -4005,66 +4005,66 @@
     "image": "imagesc/sc2317.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Apakah Anda siap untuk bergabung dengan pertempuran epik untuk memperjuangkan kebebasan kerajaan Anda? Memulai perjalanan ke dunia abad pertengahan teRp. erosok dalam perang kejam di antara kerajaan! Mainkan Game Strategi Perang Epik Kingdom Clash dan menangkan setiap pertempuran!",
+    "description": "Apakah Anda siap untuk bergabung dengan pertempuran epik untuk memperjuangkan kebebasan kerajaan Anda? Memulai perjalanan ke dunia abad pertengahan teRp erosok dalam perang kejam di antara kerajaan! Mainkan Game Strategi Perang Epik Kingdom Clash dan menangkan setiap pertempuran!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 50 within 4 days"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 80"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 150"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 260"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 320"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 380"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 460"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 640"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 900"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 1200"
       },
       {
         "number": 1875.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Watch 40 Ads : Complete within 7 days"
       }
     ]
@@ -4079,47 +4079,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 40"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 80"
       }
     ]
@@ -4134,42 +4134,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Sovereignty 10k within 7 days"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Sovereignty 50k within 7 days"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Sovereignty 450k within 7 days"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Sovereignty 900k  within 15 days"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Sovereignty 1.8M"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach VIP 1"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach VIP 5"
       }
     ]
@@ -4184,47 +4184,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the Game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 5"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 12"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 15"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 18"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 25"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 30"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Upgrade rank for a hero to 5th star. Granted legendary character doesn't count"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 40"
       }
     ]
@@ -4235,41 +4235,41 @@
     "image": "imagesc/sc1897.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Masuklah ke alam semesta ajaib Midas Gabungan: Tujuan Game Puzzle Premier! Mulai petualangan epik di Midas Merge, di mana mahkota magis yang patah menjerumuskan tanah ke dalam kegelapan. Game teka-teki offline yang sangat beRp. eringkat ini, favorit di antara orang dewasa, menantang Anda dengan permainan yang cocok dan menggetarkan dan tugas puzzle 3D yang canggih. Kembalikan kebun emas melalui penggabungan strategis dan pemecahan masalah dalam permainan pencocokan yang luar biasa ini untuk orang dewasa.",
+    "description": "Masuklah ke alam semesta ajaib Midas Gabungan: Tujuan Game Puzzle Premier! Mulai petualangan epik di Midas Merge, di mana mahkota magis yang patah menjerumuskan tanah ke dalam kegelapan. Game teka-teki offline yang sangat beRp eringkat ini, favorit di antara orang dewasa, menantang Anda dengan permainan yang cocok dan menggetarkan dan tugas puzzle 3D yang canggih. Kembalikan kebun emas melalui penggabungan strategis dan pemecahan masalah dalam permainan pencocokan yang luar biasa ini untuk orang dewasa.",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Garden Level 5"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Garden Level 10"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Garden Level 20"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Garden Level 30"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Garden Level 40"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Garden Level 50"
       }
     ]
@@ -4284,62 +4284,62 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete initial throws"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 2"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 5"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 6"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 8"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 10"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 16"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Open VIP chest"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach arena 5"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach arena 10"
       },
       {
         "number": 525.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Watch 9 videos"
       }
     ]
@@ -4354,47 +4354,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Spa center"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Cyber mall"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Cyber arena"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Robot Wars"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Spaceport"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Megarace"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Mars Colony"
       },
       {
         "number": 97500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Construct Dinopark"
       }
     ]
@@ -4409,37 +4409,37 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Ship Level 6"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Ship Level 9"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Ship Level 11"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Ship Level 13"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Ship Level 15"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach Ship Level 18"
       }
     ]
@@ -4454,52 +4454,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 4"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 9"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 14"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 19"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 24"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 49"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 55"
       }
     ]
@@ -4514,57 +4514,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 7"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 12"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 15"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 25"
       },
       {
         "number": 45000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       },
       {
         "number": 60000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 35"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 40"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 45"
       }
     ]
@@ -4579,67 +4579,67 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 150.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 2"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 6"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 9"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 14"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 25"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 31"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 38"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 45"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 60"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 75"
       },
       {
         "number": 262500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 100"
       }
     ]
@@ -4650,56 +4650,56 @@
     "image": "imagesc/sc2145.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Masuklah ke dunia ajaib duel kastil! Dalam permainan strategi kartu ini, setiap pertahanan menara adalah pertempuran kecerdasan, karena gameplay beRp. usat di sekitar mekanik yang penuh dengan tikungan yang tidak terduga dan kemungkinan tanpa akhir. Dari pembangunan dek ke Castle Defense - ini adalah permainan strategi di mana Smart dan Bold ditakdirkan untuk menang!",
+    "description": "Masuklah ke dunia ajaib duel kastil! Dalam permainan strategi kartu ini, setiap pertahanan menara adalah pertempuran kecerdasan, karena gameplay beRp usat di sekitar mekanik yang penuh dengan tikungan yang tidak terduga dan kemungkinan tanpa akhir. Dari pembangunan dek ke Castle Defense - ini adalah permainan strategi di mana Smart dan Bold ditakdirkan untuk menang!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 2"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 5"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 7"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 9"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 11"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock League 1"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock League 2"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock League 3"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock League 5"
       }
     ]
@@ -4714,57 +4714,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 4"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 6"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 8"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 14"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 16"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -4779,62 +4779,62 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 4"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 6"
       },
       {
         "number": 6000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 8"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 16"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 28"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -4849,52 +4849,52 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 7 within 7 days"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 12 within 12 days"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 17 within 12 days"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 23 within 20 days"
       },
       {
         "number": 67500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 25 within 20 days"
       },
       {
         "number": 120000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 28 within 25 days"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 31 within 30 days"
       },
       {
         "number": 262500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 33 within 30 days"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach STRONGHOLD Level 36 within 40 days"
       }
     ]
@@ -4909,72 +4909,72 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 5"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 10"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Collect a reward by making 10 spins in the exciting Video Poker game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete your collection of free rewards in the Casino Pass and get rewarded"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Get rewarded by playing poker 15 times"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Get rewarded for your Blackjack prowess – win 5 times"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Place 5 bets and get rewards"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Spin the slots in the game 20 times"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock a reward by giving roulette a try, even just once"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete your elite reward collection in the Casino Pass"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 15"
       },
       {
         "number": 6750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 20"
       },
       {
         "number": 13500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete level 30"
       }
     ]
@@ -4989,47 +4989,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 1"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 4"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 8"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 15"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 20"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 30"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 40"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Area 50"
       }
     ]
@@ -5044,57 +5044,57 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 2"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 5"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 7"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 8"
       },
       {
         "number": 4500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 10"
       },
       {
         "number": 9000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 15"
       },
       {
         "number": 13500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 20"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 35"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 50"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Reach level 75"
       }
     ]
@@ -5109,42 +5109,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 6"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 14"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 18"
       },
       {
         "number": 150000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -5159,42 +5159,42 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Finish the tutorial"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 2"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 4"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 6"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock Arena 10"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock League 1"
       },
       {
         "number": 75000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Unlock League 5"
       }
     ]
@@ -5205,51 +5205,51 @@
     "image": "imagesc/sc2146.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Apakah Anda akan selamat dari gelombang musuh?  \nPersiapkan diri Anda untuk menghadapi gelombang musuh terhadap pahlawan top Anda dalam kelangsungan hidup terbaik Roguelike Rp. G! Kalahkan gerombolan musuh yang perkasa menggunakan senjata dan mantra yang kuat. Menjadi penyintas#1 dalam petualangan penuh aksi ini! Apakah Anda akan bangkit menghadapi tantangan dan memastikan kelangsungan hidup Anda?",
+    "description": "Apakah Anda akan selamat dari gelombang musuh?  \nPersiapkan diri Anda untuk menghadapi gelombang musuh terhadap pahlawan top Anda dalam kelangsungan hidup terbaik Roguelike Rp G! Kalahkan gerombolan musuh yang perkasa menggunakan senjata dan mantra yang kuat. Menjadi penyintas#1 dalam petualangan penuh aksi ini! Apakah Anda akan bangkit menghadapi tantangan dan memastikan kelangsungan hidup Anda?",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 1500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 5"
       },
       {
         "number": 3000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 10"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 20"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 30"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 50"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 100"
       },
       {
         "number": 187500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 200"
       },
       {
         "number": 300000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Chapter 300"
       }
     ]
@@ -5260,61 +5260,61 @@
     "image": "imagesc/sc940.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Survivor Idle Run: Z-Rp. G-Game Survival Kiamat Zombie Ultimate Anda! \n \nBersiaplah untuk petualangan Rp. G idle yang mendebarkan dengan \"Survivor Idle Run: Z-Rp. G,\" peRp. aduan sempurna dari gameplay idle dan aksi zombie yang intens! Jika Anda seorang penggemar game seperti Legend of the Slime, Non-Stop Knight, dan Survivor.io, game ini dibuat untuk Anda.",
+    "description": "Survivor Idle Run: Z-Rp G-Game Survival Kiamat Zombie Ultimate Anda! \n \nBersiaplah untuk petualangan Rp G idle yang mendebarkan dengan \"Survivor Idle Run: Z-Rp G,\" peRp aduan sempurna dari gameplay idle dan aksi zombie yang intens! Jika Anda seorang penggemar game seperti Legend of the Slime, Non-Stop Knight, dan Survivor.io, game ini dibuat untuk Anda.",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 20 quests"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 40 quests"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 60 quests"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 80 quests"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 100 quests"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 150 quests"
       },
       {
         "number": 22500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 200 quests"
       },
       {
         "number": 30000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 250 quests"
       },
       {
         "number": 52500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 300 quests"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete 350 quests"
       }
     ]
@@ -5325,66 +5325,66 @@
     "image": "imagesc/sc1825.jpg",
     "platform": "Android",
     "deadline": "50 hari",
-    "description": "Memperkenalkan kata -kata dadu - tantangan kata utama Anda! \n Apakah Anda siap untuk dimensi baru dari Word Gaming? Sapa kata-kata dadu, permainan revolusioner yang memadukan daya tarik klasik dari teka-teki kata dengan sensasi strategi dice-rolling. Bersiaplah untuk memulai perjalanan yang menggoda otak yang akan membuat Anda teRp. ikat selama berjam-jam!",
+    "description": "Memperkenalkan kata -kata dadu - tantangan kata utama Anda! \n Apakah Anda siap untuk dimensi baru dari Word Gaming? Sapa kata-kata dadu, permainan revolusioner yang memadukan daya tarik klasik dari teka-teki kata dengan sensasi strategi dice-rolling. Bersiaplah untuk memulai perjalanan yang menggoda otak yang akan membuat Anda teRp ikat selama berjam-jam!",
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 2"
       },
       {
         "number": 2250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 4"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 6"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 8"
       },
       {
         "number": 7500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 10"
       },
       {
         "number": 11250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 18750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 14"
       },
       {
         "number": 26250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 16"
       },
       {
         "number": 37500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 20"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 24"
       },
       {
         "number": 375000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 30"
       }
     ]
@@ -5399,47 +5399,47 @@
     "rewards": [
       {
         "number": 75.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Start playing the game"
       },
       {
         "number": 375.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 5"
       },
       {
         "number": 1125.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 7"
       },
       {
         "number": 1875.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 9"
       },
       {
         "number": 3750.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 12"
       },
       {
         "number": 5250.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 15"
       },
       {
         "number": 15000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 18"
       },
       {
         "number": 112500.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 25"
       },
       {
         "number": 225000.0,
-        "currency": "Rp. ",
+        "currency": "Rp ",
         "level": "Complete Level 32"
       }
     ]
