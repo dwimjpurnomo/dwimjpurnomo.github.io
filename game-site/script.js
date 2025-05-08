@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
           selectedGame.rewards.forEach(reward => {
             const li = document.createElement('li');
-            li.textContent = `${reward.currency}${reward.number} ketika menyelesaikan ${reward.level}`;
+            li.textContent = `${reward.currency}${reward.number} <----> ${reward.level}`;
             gameRewards.appendChild(li);
           });
         }
