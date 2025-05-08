@@ -721,11 +721,6 @@
         "number": 375000.0,
         "currency": "Rp. ",
         "level": "Complete Level 100 within 40 days"
-      },
-      {
-        "number": 75000.0,
-        "currency": "Rp. ",
-        "level": "Purchase the Normal or Plus Battle Pass"
       }
     ]
   },
@@ -851,16 +846,6 @@
         "number": 1500000.0,
         "currency": "Rp. ",
         "level": "Reach Power 80M (You need to re-login to receive the reward)"
-      },
-      {
-        "number": 7500.0,
-        "currency": "Rp. ",
-        "level": "Single Purchase of $1.9 or more"
-      },
-      {
-        "number": 15000.0,
-        "currency": "Rp. ",
-        "level": "Single Purchase of $4.9 or more"
       }
     ]
   },
@@ -1106,11 +1091,6 @@
         "number": 3750.0,
         "currency": "Rp. ",
         "level": "Complete level 100"
-      },
-      {
-        "number": 18750.0,
-        "currency": "Rp. ",
-        "level": "Extra reward: make 2 purchases and then complete level 200"
       },
       {
         "number": 7500.0,
@@ -2446,16 +2426,6 @@
         "number": 1875000.0,
         "currency": "Rp. ",
         "level": "Complete Level 1000"
-      },
-      {
-        "number": 11250.0,
-        "currency": "Rp. ",
-        "level": "Cashback on making 5 purchases"
-      },
-      {
-        "number": 75000.0,
-        "currency": "Rp. ",
-        "level": "Cashback on Cumulative purchases over $100"
       }
     ]
   },
@@ -2691,16 +2661,6 @@
         "number": 375000.0,
         "currency": "Rp. ",
         "level": "Complete Level 100 within 30 days"
-      },
-      {
-        "number": 41250.0,
-        "currency": "Rp. ",
-        "level": "Make a purchase 9.99"
-      },
-      {
-        "number": 56250.0,
-        "currency": "Rp. ",
-        "level": "Make a purchase 14.99"
       }
     ]
   },
@@ -3056,16 +3016,6 @@
         "number": 150000.0,
         "currency": "Rp. ",
         "level": "Complete Virtual Age II within 30 days"
-      },
-      {
-        "number": 3750.0,
-        "currency": "Rp. ",
-        "level": "Purchase the Small Coin Bundle"
-      },
-      {
-        "number": 22500.0,
-        "currency": "Rp. ",
-        "level": "Purchase Small Gem Pack"
       }
     ]
   },
@@ -5301,11 +5251,6 @@
         "number": 300000.0,
         "currency": "Rp. ",
         "level": "Complete Chapter 300"
-      },
-      {
-        "number": 22500.0,
-        "currency": "Rp. ",
-        "level": "Cashback on purchase of remove ads forever pack"
       }
     ]
   },
