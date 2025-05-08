@@ -4,7 +4,6 @@
     "title": "Rise of Kingdoms",
     "image": "images/game1.jpg",
     "platform": "Android",
-    "rating": "4.5",
     "deadline": "50 hari",
     "description": "Conquer with Greece, Rise to Greatness.",
     "rewards": [
@@ -19,7 +18,6 @@
     "title": "Domino Dreams",
     "image": "images/game2.jpg",
     "platform": "Android",
-    "rating": "4.8",
     "deadline": "50 hari",
     "description": "Thousands of Domino levels.",
     "rewards": [
@@ -34,7 +32,6 @@
     "title": "Coin Master",
     "image": "images/game3.jpg",
     "platform": "Android",
-    "rating": "4.4",
     "deadline": "50 hari",
     "description": "Join your friends and millions of players to build your Viking village.",
     "rewards": [
@@ -49,7 +46,6 @@
     "title": "Evony: The King's Return",
     "image": "images/game4.jpg",
     "platform": "Android",
-    "rating": "4.3",
     "deadline": "50 hari",
     "description": "Build your empire and fight real-time battles.",
     "rewards": [
@@ -64,7 +60,6 @@
     "title": "Match Masters",
     "image": "images/game5.jpg",
     "platform": "Android",
-    "rating": "4.6",
     "deadline": "50 hari",
     "description": "An exciting match-3 game with real-time PVP competition.",
     "rewards": [
