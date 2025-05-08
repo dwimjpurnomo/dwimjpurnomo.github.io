@@ -29,7 +29,10 @@ document.addEventListener("DOMContentLoaded", () => {
               <img src="${game.image}" alt="${game.title}" class="game-image"/>
             </a>
             <div class="game-title">${game.title}</div>
-            <div class="max-earning">Dapatkan hingga ${currency}${totalEarning.toFixed(0)}</div>
+            
+            // <div class="max-earning">Dapatkan hingga ${currency}${totalEarning.toFixed(0)}</div>
+            <div class="max-earning">Dapatkan hingga ${currency}${new Intl.NumberFormat('en-US').format(totalEarning)}</div>
+
             <button class="play-button" onclick="location.href='game-detail.html?id=${game.id}'">
               Lebih detil dan mainkan
             </button>
@@ -58,7 +61,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
           document.getElementById("game-id").textContent = selectedGame.id;
           document.getElementById("dead-line").textContent = selectedGame.deadline;
-          document.getElementById("total-earning").textContent = `${currency}${totalEarning.toFixed(0)}`;
+          
+          // document.getElementById("total-earning").textContent = `${currency}${totalEarning.toFixed(0)}`;
+          document.getElementById("total-earning").textContent = `${currency}${new Intl.NumberFormat('en-US').format(totalEarning)}`;
+
 
           selectedGame.rewards.forEach(reward => {
             const li = document.createElement('li');
