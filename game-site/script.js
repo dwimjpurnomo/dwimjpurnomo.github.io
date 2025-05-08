@@ -30,7 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
             </a>
             <div class="game-title">${game.title}</div>
             
-            // <div class="max-earning">Dapatkan hingga ${currency}${totalEarning.toFixed(0)}</div>
             <div class="max-earning">Dapatkan hingga ${currency}${new Intl.NumberFormat('en-US').format(totalEarning)}</div>
 
             <button class="play-button" onclick="location.href='game-detail.html?id=${game.id}'">
