@@ -126,11 +126,6 @@
         "number": 750000.0,
         "currency": "Rp",
         "level": "Complete Board 300 within 40 days"
-      },
-      {
-        "number": 26250.0,
-        "currency": "Rp",
-        "level": "Make 3 or more total purchase"
       }
     ]
   },
@@ -196,11 +191,6 @@
         "number": 3750.0,
         "currency": "Rp",
         "level": "Complete level 100"
-      },
-      {
-        "number": 22500.0,
-        "currency": "Rp",
-        "level": "Extra reward: make 2 purchases and then complete level 200"
       },
       {
         "number": 7500.0,
@@ -671,16 +661,6 @@
         "number": 1500000.0,
         "currency": "Rp",
         "level": "Reach Power 80M (You need to re-login to receive the reward)"
-      },
-      {
-        "number": 9375.0,
-        "currency": "Rp",
-        "level": "Single Purchase of $1.9 or more"
-      },
-      {
-        "number": 16875.0,
-        "currency": "Rp",
-        "level": "Single Purchase of $4.9 or more"
       }
     ]
   },
@@ -1606,11 +1586,6 @@
         "number": 375000.0,
         "currency": "Rp",
         "level": "Complete Level 100 within 40 days"
-      },
-      {
-        "number": 75000.0,
-        "currency": "Rp",
-        "level": "Purchase the Normal or Plus Battle Pass"
       }
     ]
   },
@@ -2706,16 +2681,6 @@
         "number": 750000.0,
         "currency": "Rp",
         "level": "Complete Level 100 within 30 days"
-      },
-      {
-        "number": 41250.0,
-        "currency": "Rp",
-        "level": "Make a purchase 9.99"
-      },
-      {
-        "number": 56250.0,
-        "currency": "Rp",
-        "level": "Make a purchase 14.99"
       }
     ]
   },
@@ -3171,16 +3136,6 @@
         "number": 112500.0,
         "currency": "Rp",
         "level": "Complete Virtual Age II within 30 days"
-      },
-      {
-        "number": 9375.0,
-        "currency": "Rp",
-        "level": "Purchase the Small Coin Bundle"
-      },
-      {
-        "number": 15000.0,
-        "currency": "Rp",
-        "level": "Purchase Small Gem Pack"
       }
     ]
   },
