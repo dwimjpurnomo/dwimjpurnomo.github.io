@@ -10,52 +10,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 10"
+        "level": "Reach Team level 10"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 20"
+        "level": "Reach Team level 20"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 30"
+        "level": "Reach Team level 30"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 40"
+        "level": "Reach Team level 40"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 50"
+        "level": "Reach Team level 50"
       },
       {
         "number": 60000.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 60"
+        "level": "Reach Team level 60"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 80"
+        "level": "Reach Team level 80"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 100"
+        "level": "Reach Team level 100"
       },
       {
         "number": 600000.0,
         "currency": "Rp",
-        "level": "Mencapai level tim 120"
+        "level": "Reach Team level 120"
       }
     ]
   },
@@ -70,67 +70,67 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Tutorial lengkap"
+        "level": "Complete Tutorial"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi papan 2 dalam 5 hari"
+        "level": "Complete Board 2 within 5 days"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Papan Lengkap 7"
+        "level": "Complete Board 7"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Dewan Lengkap 16"
+        "level": "Complete Board 16"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Papan Lengkap 36"
+        "level": "Complete Board 36"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Dewan Lengkap 55 dalam 25 Hari"
+        "level": "Complete Board 55 within 25 days"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Dewan Lengkap 70 dalam 30 Hari"
+        "level": "Complete Board 70 within 30 days"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Lengkapi papan 100 dalam 30 hari"
+        "level": "Complete Board 100 within 30 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Papan Lengkap 150"
+        "level": "Complete Board 150"
       },
       {
         "number": 262500.0,
         "currency": "Rp",
-        "level": "Dewan Lengkap 200 dalam waktu 40 hari"
+        "level": "Complete Board 200 within 40 days"
       },
       {
         "number": 750000.0,
         "currency": "Rp",
-        "level": "Lengkapi papan 300 dalam 40 hari"
+        "level": "Complete Board 300 within 40 days"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Melakukan 3 atau lebih total pembelian"
+        "level": "Make 3 or more total purchase"
       }
     ]
   },
@@ -145,27 +145,27 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mainkan 2 game"
+        "level": "Play 2 games"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mainkan 10 game"
+        "level": "Play 10 games"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mainkan 100 game"
+        "level": "Play 100 games"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Mainkan 1000 game"
+        "level": "Play 1000 games"
       }
     ]
   },
@@ -180,67 +180,67 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 15"
+        "level": "Complete level 15"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 50"
+        "level": "Complete level 50"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100"
+        "level": "Complete level 100"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Hadiah Ekstra: Buat 2 Pembelian dan kemudian Lengkapi Level 200"
+        "level": "Extra reward: make 2 purchases and then complete level 200"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 300"
+        "level": "Complete level 300"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 400"
+        "level": "Complete level 400"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 600"
+        "level": "Complete level 600"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000"
+        "level": "Complete level 1000"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1500"
+        "level": "Complete level 1500"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 2250"
+        "level": "Complete level 2250"
       },
       {
         "number": 600000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 3500"
+        "level": "Complete level 3500"
       },
       {
         "number": 1125000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5000"
+        "level": "Complete level 5000"
       }
     ]
   },
@@ -255,57 +255,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Kisah Mansion: Gabungkan Rahasia"
+        "level": "Start Playing Mansion Tale: Merge Secrets"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 2"
+        "level": "Complete level 2"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5"
+        "level": "Complete level 5"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 7"
+        "level": "Complete level 7"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 15"
+        "level": "Complete level 15"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 40"
+        "level": "Complete level 40"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 50"
+        "level": "Complete level 50"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 60"
+        "level": "Complete level 60"
       }
     ]
   },
@@ -320,47 +320,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah bermain game dan izinkan pelacakan"
+        "level": "Start playing the game and allow tracking"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 3"
+        "level": "Complete Level 3"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete Level 10"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 15"
+        "level": "Complete Level 15"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete Level 20"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 25"
+        "level": "Complete Level 25"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 35"
+        "level": "Complete Level 35"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 45"
+        "level": "Complete Level 45"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 55"
+        "level": "Complete Level 55"
       }
     ]
   },
@@ -375,52 +375,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi 10 level"
+        "level": "Complete 10 levels"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi 25 level"
+        "level": "Complete 25 levels"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi 50 level"
+        "level": "Complete 50 levels"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi 100 level"
+        "level": "Complete 100 levels"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Lengkapi 200 level"
+        "level": "Complete 200 levels"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi 300 level"
+        "level": "Complete 300 levels"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkapi 400 level"
+        "level": "Complete 400 levels"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi 600 level"
+        "level": "Complete 600 levels"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi 1000 level"
+        "level": "Complete 1000 levels"
       }
     ]
   },
@@ -435,62 +435,62 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1125.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Reach level 5"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Reach level 10"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Mencapai level 20"
+        "level": "Reach level 20"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Reach level 30"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai level 40"
+        "level": "Reach level 40"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mencapai level 50"
+        "level": "Reach level 50"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Mencapai level 60"
+        "level": "Reach level 60"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Mencapai level 70"
+        "level": "Reach level 70"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai level 80"
+        "level": "Reach level 80"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai level 90"
+        "level": "Reach level 90"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Mencapai level 100"
+        "level": "Reach level 100"
       }
     ]
   },
@@ -505,42 +505,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai level 3"
+        "level": "Reach level 3"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Reach level 5"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Reach level 10"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai level 20"
+        "level": "Reach level 20"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Reach level 30"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai level 40"
+        "level": "Reach level 40"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Mencapai level 50"
+        "level": "Reach level 50"
       }
     ]
   },
@@ -555,62 +555,62 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 3"
+        "level": "Upgrade the Abyssal Fortress to level 3"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 9"
+        "level": "Upgrade the Abyssal Fortress to level 9"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 12"
+        "level": "Upgrade the Abyssal Fortress to level 12"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 14"
+        "level": "Upgrade the Abyssal Fortress to level 14"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 17"
+        "level": "Upgrade the Abyssal Fortress to level 17"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 19"
+        "level": "Upgrade the Abyssal Fortress to level 19"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 23"
+        "level": "Upgrade the Abyssal Fortress to level 23"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 32"
+        "level": "Upgrade the Abyssal Fortress to level 32"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 37"
+        "level": "Upgrade the Abyssal Fortress to level 37"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 43"
+        "level": "Upgrade the Abyssal Fortress to level 43"
       },
       {
         "number": 750000.0,
         "currency": "Rp",
-        "level": "Tingkatkan Benteng Abyssal ke Level 46"
+        "level": "Upgrade the Abyssal Fortress to level 46"
       }
     ]
   },
@@ -625,62 +625,62 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Tingkatkan Kota Anda ke Level 8"
+        "level": "Upgrade your city to level 8"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Jangkau Kekuatan 300K (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 300k (You need to re-login to receive the reward)"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Jangkau Kekuatan 500K (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 500k (You need to re-login to receive the reward)"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Jangkau Kekuatan 1M (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 1M (You need to re-login to receive the reward)"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Mencapai kekuatan 1.5m (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 1.5M (You need to re-login to receive the reward)"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Jangkau Kekuatan 2m (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 2M (You need to re-login to receive the reward)"
       },
       {
         "number": 450000.0,
         "currency": "Rp",
-        "level": "Jangkau Kekuatan 3M (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 3M (You need to re-login to receive the reward)"
       },
       {
         "number": 600000.0,
         "currency": "Rp",
-        "level": "Jangkau Kekuatan 5m (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 5M (You need to re-login to receive the reward)"
       },
       {
         "number": 1500000.0,
         "currency": "Rp",
-        "level": "Mencapai kekuatan 80m (Anda perlu masuk kembali untuk menerima hadiah)"
+        "level": "Reach Power 80M (You need to re-login to receive the reward)"
       },
       {
         "number": 9375.0,
         "currency": "Rp",
-        "level": "Pembelian tunggal $ 1,9 atau lebih"
+        "level": "Single Purchase of $1.9 or more"
       },
       {
         "number": 16875.0,
         "currency": "Rp",
-        "level": "Pembelian tunggal $ 4,9 atau lebih"
+        "level": "Single Purchase of $4.9 or more"
       }
     ]
   },
@@ -695,72 +695,72 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 150.0,
         "currency": "Rp",
-        "level": "Lengkapi tutorial"
+        "level": "Complete the tutorial"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Buka kunci 4 kerajaan dalam 2 hari"
+        "level": "Unlock 4 Kingdoms within 2 days"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Buka 5 Kerajaan"
+        "level": "Unlock 5 Kingdoms"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Buka 10 Kerajaan"
+        "level": "Unlock 10 Kingdoms"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Buka 20 Kerajaan"
+        "level": "Unlock 20 Kingdoms"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Buka 30 kerajaan dalam waktu 4 hari"
+        "level": "Unlock 30 Kingdoms within 4 days"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Buka 40 Kerajaan"
+        "level": "Unlock 40 Kingdoms"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Buka Kunci 51 Kerajaan Dalam 9 Hari"
+        "level": "Unlock 51 Kingdoms within 9 days"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Buka kunci 71 kerajaan dalam 11 hari"
+        "level": "Unlock 71 Kingdoms within 11 days"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Buka 90 Kerajaan"
+        "level": "Unlock 90 Kingdoms"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Buka 150 kerajaan dalam 23 hari"
+        "level": "Unlock 150 Kingdoms within 23 days"
       },
       {
         "number": 525000.0,
         "currency": "Rp",
-        "level": "Buka 250 Kerajaan"
+        "level": "Unlock 250 Kingdoms"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Selesaikan Dream Pass"
+        "level": "Finish Dream Pass"
       }
     ]
   },
@@ -775,52 +775,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 40"
+        "level": "Complete level 40"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 60"
+        "level": "Complete level 60"
       },
       {
         "number": 9750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 80"
+        "level": "Complete level 80"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 150"
+        "level": "Complete level 150"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 400"
+        "level": "Complete level 400"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1200"
+        "level": "Complete level 1200"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 2400"
+        "level": "Complete level 2400"
       }
     ]
   },
@@ -835,67 +835,67 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 60"
+        "level": "Complete level 60"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100"
+        "level": "Complete level 100"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 150"
+        "level": "Complete level 150"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Level Lengkap 200"
+        "level": "Complete level 200"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 300"
+        "level": "Complete level 300"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 400"
+        "level": "Complete level 400"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 600"
+        "level": "Complete level 600"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 900"
+        "level": "Complete level 900"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1100"
+        "level": "Complete level 1100"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1500"
+        "level": "Complete level 1500"
       }
     ]
   },
@@ -910,57 +910,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete Level 10"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete Level 20"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 50"
+        "level": "Complete Level 50"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100"
+        "level": "Complete Level 100"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 200"
+        "level": "Complete Level 200"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 350"
+        "level": "Complete Level 350"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 500"
+        "level": "Complete Level 500"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 700"
+        "level": "Complete Level 700"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000"
+        "level": "Complete Level 1000"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1500"
+        "level": "Complete Level 1500"
       }
     ]
   },
@@ -975,72 +975,72 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1125.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 5"
+        "level": "Achieve Island 5"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 14"
+        "level": "Achieve Island 14"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 25"
+        "level": "Achieve Island 25"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 35"
+        "level": "Achieve Island 35"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 56"
+        "level": "Achieve Island 56"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 69 dalam 3 hari"
+        "level": "Achieve Island 69 in 3 days"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 79"
+        "level": "Achieve Island 79"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 140 dalam 7 hari"
+        "level": "Achieve Island 140 in 7 days"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 150"
+        "level": "Achieve Island 150"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 200"
+        "level": "Achieve Island 200"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 260 dalam 12 hari"
+        "level": "Achieve Island 260 in 12 days"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 300"
+        "level": "Achieve Island 300"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai pulau 400"
+        "level": "Achieve Island 400"
       }
     ]
   },
@@ -1055,42 +1055,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Achieve level 5"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Achieve level 10"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Mencapai level 15"
+        "level": "Achieve level 15"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Achieve level 30"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai level 50"
+        "level": "Achieve level 50"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai level 70"
+        "level": "Achieve level 70"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Mencapai level 90"
+        "level": "Achieve level 90"
       }
     ]
   },
@@ -1105,57 +1105,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Selesaikan City Catalina"
+        "level": "Finish city Catalina"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Selesaikan Kota Sydney"
+        "level": "Finish city Sydney"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Selesaikan Kota Atlantik Kota"
+        "level": "Finish city Atlantic City"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Selesaikan Kota London"
+        "level": "Finish city London"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Selesaikan Kota Berlin"
+        "level": "Finish city Berlin"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Selesaikan Kota Jamaika dalam 10 Hari"
+        "level": "Finish city Jamaica in 10 days"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Selesaikan City Rio"
+        "level": "Finish city Rio"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Selesaikan City Buenos Aires dalam 20 hari"
+        "level": "Finish city Buenos Aires in 20 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Selesaikan Kota Kopenhagen"
+        "level": "Finish city Copenhagen"
       },
       {
         "number": 525000.0,
         "currency": "Rp",
-        "level": "Selesaikan Kota Fiji"
+        "level": "Finish city Fiji"
       }
     ]
   },
@@ -1170,72 +1170,72 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 45"
+        "level": "Complete level 45"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 80"
+        "level": "Complete level 80"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Level lengkap 180"
+        "level": "Complete level 180"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 241"
+        "level": "Complete level 241"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 301"
+        "level": "Complete level 301"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 505"
+        "level": "Complete level 505"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 700"
+        "level": "Complete level 700"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 950"
+        "level": "Complete level 950"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1500"
+        "level": "Complete level 1500"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 2500"
+        "level": "Complete level 2500"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 3500"
+        "level": "Complete level 3500"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 4500"
+        "level": "Complete level 4500"
       }
     ]
   },
@@ -1250,52 +1250,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi 10 level"
+        "level": "Complete 10 levels"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi 20 level"
+        "level": "Complete 20 levels"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi 30 level"
+        "level": "Complete 30 levels"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Lengkapi 50 level"
+        "level": "Complete 50 levels"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi 70 level"
+        "level": "Complete 70 levels"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi 140 level"
+        "level": "Complete 140 levels"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Lengkapi 300 level"
+        "level": "Complete 300 levels"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi 400 level"
+        "level": "Complete 400 levels"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Lengkapi 800 level"
+        "level": "Complete 800 levels"
       }
     ]
   },
@@ -1310,52 +1310,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Reach level 5"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Reach level 10"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Mencapai level 20"
+        "level": "Reach level 20"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Reach level 30"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mencapai level 40"
+        "level": "Reach level 40"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai level 50"
+        "level": "Reach level 50"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai level 75"
+        "level": "Reach level 75"
       },
       {
         "number": 187500.0,
         "currency": "Rp",
-        "level": "Mencapai level 105"
+        "level": "Reach level 105"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Mencapai level 135"
+        "level": "Reach level 135"
       }
     ]
   },
@@ -1370,67 +1370,67 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 15 dalam 7 hari"
+        "level": "Reach Character level 15 within 7 days"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai level karakter 60 dalam 7 hari"
+        "level": "Reach Character level 60 within 7 days"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Mencapai tingkat karakter 98 dalam 7 hari"
+        "level": "Reach Character level 98 within 7 days"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 129 dalam 7 hari"
+        "level": "Reach Character level 129 within 7 days"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai tingkat karakter 141 dalam 7 hari"
+        "level": "Reach Character level 141 within 7 days"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 167 dalam 7 hari"
+        "level": "Reach Character level 167 within 7 days"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 182 dalam waktu 15 hari"
+        "level": "Reach Character level 182 within 15 days"
       },
       {
         "number": 16500.0,
         "currency": "Rp",
-        "level": "Mencapai tingkat karakter 199 dalam waktu 15 hari"
+        "level": "Reach Character level 199 within 15 days"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 213 dalam waktu 15 hari"
+        "level": "Reach Character level 213 within 15 days"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 248 dalam 30 hari"
+        "level": "Reach Character level 248 within 30 days"
       },
       {
         "number": 90000.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 270 dalam 30 hari"
+        "level": "Reach Character level 270 within 30 days"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Mencapai Tingkat Karakter 318 dalam 30 hari"
+        "level": "Reach Character level 318 within 30 days"
       }
     ]
   },
@@ -1445,52 +1445,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5 dalam 24 Jam"
+        "level": "Complete Level 5 within 24 hours"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi level 8 dalam 2 hari"
+        "level": "Complete Level 8 within 2 days"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10 Lengkapi dalam 3 Hari"
+        "level": "Complete Level 10 within 3 days"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi level 15 dalam 5 hari"
+        "level": "Complete Level 15 within 5 days"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 20 dalam 10 Hari"
+        "level": "Complete Level 20 within 10 days"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 30 dalam 17 Hari"
+        "level": "Complete Level 30 within 17 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 40 dalam 21 Hari"
+        "level": "Complete Level 40 within 21 days"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 50"
+        "level": "Complete Level 50"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 70"
+        "level": "Complete Level 70"
       }
     ]
   },
@@ -1505,57 +1505,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5 dalam mode tanpa akhir!"
+        "level": "Complete level 5 in the Endless mode!"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10 Lengkap dalam Mode Tanpa Akhir!"
+        "level": "Complete level 10 in the Endless mode!"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 20 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 20 in the Endless mode!"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 50 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 50 in the Endless mode!"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 100 in the Endless mode!"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 150 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 150 in the Endless mode!"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 300 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 300 in the Endless mode!"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 500 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 500 in the Endless mode!"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 750 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 750 in the Endless mode!"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000 dalam Mode Tanpa Akhir!"
+        "level": "Complete level 1000 in the Endless mode!"
       }
     ]
   },
@@ -1570,47 +1570,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 3 dalam 24 Jam"
+        "level": "Complete Level 3 within 24 hours"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5"
+        "level": "Complete Level 5"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 15 Lengkapi dalam 10 Hari"
+        "level": "Complete Level 15 within 10 days"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 30 dalam 14 Hari"
+        "level": "Complete Level 30 within 14 days"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 50 dalam 21 Hari"
+        "level": "Complete Level 50 within 21 days"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 70 Lengkapi dalam 25 Hari"
+        "level": "Complete Level 70 within 25 days"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100 dalam 40 hari"
+        "level": "Complete Level 100 within 40 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Beli Normal atau Plus Battle Pass"
+        "level": "Purchase the Normal or Plus Battle Pass"
       }
     ]
   },
@@ -1625,57 +1625,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5"
+        "level": "Complete level 5"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 40"
+        "level": "Complete level 40"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 60"
+        "level": "Complete level 60"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 80"
+        "level": "Complete level 80"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai Koin 1B"
+        "level": "Reach 1B coins"
       },
       {
         "number": 187500.0,
         "currency": "Rp",
-        "level": "Mencapai koin 5B"
+        "level": "Reach 5B coins"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Mencapai 10b koin"
+        "level": "Reach 10B coins"
       }
     ]
   },
@@ -1690,47 +1690,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 8"
+        "level": "Complete Level 8"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 26"
+        "level": "Complete Level 26"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 41"
+        "level": "Complete Level 41"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 90"
+        "level": "Complete Level 90"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 140"
+        "level": "Complete Level 140"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Level lengkap 180"
+        "level": "Complete Level 180"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 200"
+        "level": "Complete Level 200"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 250"
+        "level": "Complete Level 250"
       }
     ]
   },
@@ -1745,57 +1745,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 225.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 50"
+        "level": "Complete level 50"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 70"
+        "level": "Complete level 70"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100"
+        "level": "Complete level 100"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Level Lengkap 200"
+        "level": "Complete level 200"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 450"
+        "level": "Complete level 450"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 600"
+        "level": "Complete level 600"
       },
       {
         "number": 60000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000"
+        "level": "Complete level 1000"
       }
     ]
   },
@@ -1810,57 +1810,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5 dalam 1 hari"
+        "level": "Complete Level 5 within 1 day"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 15 dalam 3 Hari"
+        "level": "Complete Level 15 within 3 days"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 35 dalam 4 hari"
+        "level": "Complete Level 35 within 4 days"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 75 Lengkapi Dalam 7 Hari"
+        "level": "Complete Level 75 within 7 days"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100"
+        "level": "Complete Level 100"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 150"
+        "level": "Complete Level 150"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 250"
+        "level": "Complete Level 250"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 500"
+        "level": "Complete Level 500"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 750"
+        "level": "Complete Level 750"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000"
+        "level": "Complete Level 1000"
       }
     ]
   },
@@ -1875,47 +1875,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Masuk ke game"
+        "level": "Login to the game"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Level hingga Castle 5"
+        "level": "Level up to Castle 5"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Level hingga Castle 7"
+        "level": "Level up to Castle 7"
       },
       {
         "number": 20250.0,
         "currency": "Rp",
-        "level": "Level hingga Castle 10"
+        "level": "Level up to Castle 10"
       },
       {
         "number": 48750.0,
         "currency": "Rp",
-        "level": "Level hingga Castle 15"
+        "level": "Level up to Castle 15"
       },
       {
         "number": 56250.0,
         "currency": "Rp",
-        "level": "Level hingga Castle 22"
+        "level": "Level up to Castle 22"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Level hingga Castle 25"
+        "level": "Level up to Castle 25"
       },
       {
         "number": 187500.0,
         "currency": "Rp",
-        "level": "Level hingga Castle 30"
+        "level": "Level up to Castle 30"
       }
     ]
   },
@@ -1930,52 +1930,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Mencapai level 3"
+        "level": "Reach Level 3"
       },
       {
         "number": 1125.0,
         "currency": "Rp",
-        "level": "Mencapai level 7 dalam 20 menit"
+        "level": "Reach Level 7 within 20 mins"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 8 dalam 7 hari"
+        "level": "Reach Level 8 within 7 days"
       },
       {
         "number": 13500.0,
         "currency": "Rp",
-        "level": "Mencapai level 10 dalam 10 hari"
+        "level": "Reach Level 10 within 10 days"
       },
       {
         "number": 16500.0,
         "currency": "Rp",
-        "level": "Mencapai level 12"
+        "level": "Reach Level 12"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mencapai level 13"
+        "level": "Reach Level 13"
       },
       {
         "number": 31500.0,
         "currency": "Rp",
-        "level": "Mencapai level 14"
+        "level": "Reach Level 14"
       },
       {
         "number": 67500.0,
         "currency": "Rp",
-        "level": "Mencapai level 17"
+        "level": "Reach Level 17"
       },
       {
         "number": 262500.0,
         "currency": "Rp",
-        "level": "Mencapai level 20 dalam 30 hari"
+        "level": "Reach Level 20 within 30 days"
       }
     ]
   },
@@ -1990,42 +1990,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 50"
+        "level": "Complete level 50"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 120"
+        "level": "Complete level 120"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 500"
+        "level": "Complete level 500"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000"
+        "level": "Complete level 1000"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 1600"
+        "level": "Complete level 1600"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Level Lengkap 2000"
+        "level": "Complete level 2000"
       }
     ]
   },
@@ -2040,57 +2040,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Reach level 10"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Reach level 30"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 60"
+        "level": "Reach level 60"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai level 90"
+        "level": "Reach level 90"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Mencapai level 125"
+        "level": "Reach level 125"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai level 200"
+        "level": "Reach level 200"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mencapai level 600"
+        "level": "Reach level 600"
       },
       {
         "number": 60000.0,
         "currency": "Rp",
-        "level": "Mencapai level 1800"
+        "level": "Reach level 1800"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai level 2600"
+        "level": "Reach level 2600"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Mencapai level 3000"
+        "level": "Reach level 3000"
       }
     ]
   },
@@ -2105,67 +2105,67 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai Kastil Level 5 dalam 30 menit"
+        "level": "Reach castle Level 5 within 30 mins"
       },
       {
         "number": 6750.0,
         "currency": "Rp",
-        "level": "Mencapai level Castle 76 dalam 3 hari"
+        "level": "Reach castle Level 76 within 3 days"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai level Castle 230 dalam 11 hari"
+        "level": "Reach castle Level 230 within 11 days"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Dapatkan pahlawan \"Miku\""
+        "level": "Get the hero \"Miku\""
       },
       {
         "number": 13500.0,
         "currency": "Rp",
-        "level": "Bunuh Titans dari level apa pun 30 kali dalam demonstrasi yang Anda dimulai dalam waktu 3 hari"
+        "level": "Kill Titans of any level 30 times in rallies you initiated within 3 days"
       },
       {
         "number": 16500.0,
         "currency": "Rp",
-        "level": "Bunuh Titans dari level apa pun 90 kali dalam demonstrasi yang Anda dimulai dalam waktu 6 hari"
+        "level": "Kill Titans of any level 90 times in rallies you initiated within 6 days"
       },
       {
         "number": 24750.0,
         "currency": "Rp",
-        "level": "Bunuh Titans dari level apa pun 250 kali dalam demonstrasi yang Anda dimulai dalam 14 hari"
+        "level": "Kill Titans of any level 250 times in rallies you initiated within 14 days"
       },
       {
         "number": 135000.0,
         "currency": "Rp",
-        "level": "Promosikan 1 pahlawan ke 4 bintang dalam 19 hari"
+        "level": "Promote any 1 Hero to 4 Stars within 19 days"
       },
       {
         "number": 337500.0,
         "currency": "Rp",
-        "level": "Mencapai level Castle 1300 dalam 27 hari"
+        "level": "Reach castle Level 1300 within 27 days"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Dapatkan 14000 poin pembelian total dalam 20 hari"
+        "level": "Obtain 14000 Purchase Points in total within 20 days"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Dapatkan 56.000 poin pembelian total dalam 20 hari"
+        "level": "Obtain 56000 Purchase Points in total within 20 days"
       },
       {
         "number": 750000.0,
         "currency": "Rp",
-        "level": "Dapatkan total 280000 poin pembelian"
+        "level": "Obtain 280000 Purchase Points in total"
       }
     ]
   },
@@ -2180,52 +2180,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1125.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 1 Musim Panas"
+        "level": "Complete Chapter 1 Summer"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 2 London"
+        "level": "Complete Chapter 2 London"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 3 Buah"
+        "level": "Complete Chapter 3 Fruits"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 5 Bunga"
+        "level": "Complete Chapter 5 Flowers"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 7 Laut"
+        "level": "Complete Chapter 7 Sea"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 10 Gaya"
+        "level": "Complete Chapter 10 Style"
       },
       {
         "number": 60000.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 12 Dinosaurus"
+        "level": "Complete Chapter 12 Dinosaurs"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 15 Pertanian"
+        "level": "Complete Chapter 15 Farm"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 18 New York"
+        "level": "Complete Chapter 18 New York"
       }
     ]
   },
@@ -2240,52 +2240,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Tingkatkan balai kota ke level 7 dalam 1 hari"
+        "level": "Upgrade the City Hall to Level 7 within 1 day"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Buka kunci unit T2 dalam 1 hari"
+        "level": "Unlock any T2 unit within 1 day"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Tingkatkan balai kota ke level 10 dalam 2 hari"
+        "level": "Upgrade the City Hall to Level 10 within 2 days"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Mencapai daya 1000000 dalam 11 hari"
+        "level": "Reach 1000000 power within 11 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Tingkatkan balai kota ke level 20 dalam 18 hari"
+        "level": "Upgrade the City Hall to Level 20 within 18 days"
       },
       {
         "number": 97500.0,
         "currency": "Rp",
-        "level": "Buka kunci unit T3 dalam waktu 15 hari"
+        "level": "Unlock any T3 unit within 15 days"
       },
       {
         "number": 232500.0,
         "currency": "Rp",
-        "level": "Mencapai daya 5000000 dalam waktu 25 hari"
+        "level": "Reach 5000000 power within 25 days"
       },
       {
         "number": 330000.0,
         "currency": "Rp",
-        "level": "Buka kunci unit T4 dalam 28 hari"
+        "level": "Unlock any T4 unit within 28 days"
       },
       {
         "number": 412500.0,
         "currency": "Rp",
-        "level": "Tingkatkan balai kota ke level 25"
+        "level": "Upgrade the City Hall to Level 25"
       }
     ]
   },
@@ -2300,42 +2300,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete Level 10"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete Level 30"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 60"
+        "level": "Complete Level 60"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100"
+        "level": "Complete Level 100"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 230"
+        "level": "Complete Level 230"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 350"
+        "level": "Complete Level 350"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 500"
+        "level": "Complete Level 500"
       }
     ]
   },
@@ -2350,62 +2350,62 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi level 50 dalam 4 hari"
+        "level": "Complete Level 50 within 4 days"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 80"
+        "level": "Complete Level 80"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 150"
+        "level": "Complete Level 150"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 260"
+        "level": "Complete Level 260"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 320"
+        "level": "Complete Level 320"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 380"
+        "level": "Complete Level 380"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 460"
+        "level": "Complete Level 460"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 640"
+        "level": "Complete Level 640"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 900"
+        "level": "Complete Level 900"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1200"
+        "level": "Complete Level 1200"
       },
       {
         "number": 1875.0,
         "currency": "Rp",
-        "level": "Tonton 40 Iklan: Lengkap dalam 7 hari"
+        "level": "Watch 40 Ads : Complete within 7 days"
       }
     ]
   },
@@ -2420,72 +2420,72 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Reach level 5"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Reach level 10"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai level 15"
+        "level": "Reach level 15"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai level 20"
+        "level": "Reach level 20"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Reach level 30"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Mencapai level 40"
+        "level": "Reach level 40"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai level 60"
+        "level": "Reach level 60"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai level 80"
+        "level": "Reach level 80"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mencapai level 100"
+        "level": "Reach level 100"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai level 150"
+        "level": "Reach level 150"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai level 250"
+        "level": "Reach level 250"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai level 400"
+        "level": "Reach level 400"
       },
       {
         "number": 525000.0,
         "currency": "Rp",
-        "level": "Mencapai level 565"
+        "level": "Reach level 565"
       }
     ]
   },
@@ -2500,62 +2500,62 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Lengkapi lemparan awal"
+        "level": "Complete initial throws"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai level 2"
+        "level": "Reach level 2"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Reach level 5"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai level 6"
+        "level": "Reach level 6"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai level 8"
+        "level": "Reach level 8"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Reach level 10"
       },
       {
         "number": 60000.0,
         "currency": "Rp",
-        "level": "Mencapai level 16"
+        "level": "Reach level 16"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Buka peti VIP"
+        "level": "Open VIP chest"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai Arena 5"
+        "level": "Reach arena 5"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mencapai arena 10"
+        "level": "Reach arena 10"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Tonton 9 video"
+        "level": "Watch 9 videos"
       }
     ]
   },
@@ -2570,47 +2570,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 12"
+        "level": "Achieve level 12"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Mencapai level 25"
+        "level": "Achieve level 25"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Mencapai level 44"
+        "level": "Achieve level 44"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mencapai level 79"
+        "level": "Achieve level 79"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mencapai level 121"
+        "level": "Achieve level 121"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai level 214"
+        "level": "Achieve level 214"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai level 306"
+        "level": "Achieve level 306"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Mencapai level 406"
+        "level": "Achieve level 406"
       }
     ]
   },
@@ -2625,37 +2625,37 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Bab 1 Level 21"
+        "level": "Complete Chapter 1 level 21"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Bab 1 Level 60"
+        "level": "Complete Chapter 1 level 60"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 2 Level 32"
+        "level": "Complete Chapter 2 level 32"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 2 Level 90"
+        "level": "Complete Chapter 2 level 90"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 3 Level 70"
+        "level": "Complete Chapter 3 level 70"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Bab 4 Level 100"
+        "level": "Complete Chapter 4 level 100"
       }
     ]
   },
@@ -2670,52 +2670,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10 Lengkapi dalam 7 Hari"
+        "level": "Complete Level 10 within 7 days"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 15 dalam 10 Hari"
+        "level": "Complete Level 15 within 10 days"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 25 dalam 10 Hari"
+        "level": "Complete Level 25 within 10 days"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Lengkapi level 30 dalam 30 hari"
+        "level": "Complete Level 30 within 30 days"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 50 dalam 30 Hari"
+        "level": "Complete Level 50 within 30 days"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 70 dalam 30 Hari"
+        "level": "Complete Level 70 within 30 days"
       },
       {
         "number": 750000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100 dalam 30 Hari"
+        "level": "Complete Level 100 within 30 days"
       },
       {
         "number": 41250.0,
         "currency": "Rp",
-        "level": "Melakukan pembelian 9.99"
+        "level": "Make a purchase 9.99"
       },
       {
         "number": 56250.0,
         "currency": "Rp",
-        "level": "Melakukan pembelian 14.99"
+        "level": "Make a purchase 14.99"
       }
     ]
   },
@@ -2730,57 +2730,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 8"
+        "level": "Complete Level 8"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 26"
+        "level": "Complete Level 26"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 41"
+        "level": "Complete Level 41"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 90"
+        "level": "Complete Level 90"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 140"
+        "level": "Complete Level 140"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Level lengkap 180"
+        "level": "Complete Level 180"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 200"
+        "level": "Complete Level 200"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 300"
+        "level": "Complete Level 300"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 400"
+        "level": "Complete Level 400"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 500"
+        "level": "Complete Level 500"
       }
     ]
   },
@@ -2795,52 +2795,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete Level 10"
       },
       {
         "number": 1125.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete Level 30"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 50"
+        "level": "Complete Level 50"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100"
+        "level": "Complete Level 100"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 200"
+        "level": "Complete Level 200"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 350"
+        "level": "Complete Level 350"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 500"
+        "level": "Complete Level 500"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 750"
+        "level": "Complete Level 750"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000"
+        "level": "Complete Level 1000"
       }
     ]
   },
@@ -2855,47 +2855,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 2"
+        "level": "Complete day 2"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 3"
+        "level": "Complete day 3"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 5"
+        "level": "Complete day 5"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 7"
+        "level": "Complete day 7"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 8"
+        "level": "Complete day 8"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 12"
+        "level": "Complete day 12"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 15"
+        "level": "Complete day 15"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Hari Lengkap 19"
+        "level": "Complete day 19"
       }
     ]
   },
@@ -2910,42 +2910,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Tingkatkan Dusk Palace ke Level 4"
+        "level": "Upgrade Dusk Palace to level 4"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Tingkatkan Dusk Palace ke Level 9"
+        "level": "Upgrade Dusk Palace to level 9"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 13 Dalam Pertandingan 3"
+        "level": "Complete chapter 13 in Match 3"
       },
       {
         "number": 41250.0,
         "currency": "Rp",
-        "level": "Tingkatkan Dusk Palace ke Level 19 dalam 16 hari"
+        "level": "Upgrade Dusk Palace to level 19 in 16 days"
       },
       {
         "number": 48750.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 23 dalam Pertandingan 3"
+        "level": "Complete chapter 23 in Match 3"
       },
       {
         "number": 135000.0,
         "currency": "Rp",
-        "level": "Tingkatkan Dusk Palace ke Level 26"
+        "level": "Upgrade Dusk Palace to level 26"
       },
       {
         "number": 337500.0,
         "currency": "Rp",
-        "level": "Tingkatkan Dusk Palace ke Level 35"
+        "level": "Upgrade Dusk Palace to level 35"
       }
     ]
   },
@@ -2960,57 +2960,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah bermain playdoku"
+        "level": "Start playing PlayDoku"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5 dalam mode perjalanan"
+        "level": "Complete level 5 in Journey mode"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10 Lengkapi dalam mode Journey"
+        "level": "Complete level 10 in Journey mode"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 25 dalam mode perjalanan"
+        "level": "Complete level 25 in Journey mode"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 50 dalam mode perjalanan"
+        "level": "Complete level 50 in Journey mode"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 75 dalam mode perjalanan"
+        "level": "Complete level 75 in Journey mode"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 100 dalam mode perjalanan"
+        "level": "Complete level 100 in Journey mode"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 200 dalam mode perjalanan"
+        "level": "Complete level 200 in Journey mode"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 400 dalam Mode Perjalanan"
+        "level": "Complete level 400 in Journey mode"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 800 dalam mode perjalanan"
+        "level": "Complete level 800 in Journey mode"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 1000 dalam Mode Perjalanan"
+        "level": "Complete level 1000 in Journey mode"
       }
     ]
   },
@@ -3025,47 +3025,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Tutorial lengkap"
+        "level": "Complete tutorial"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi tambang 4"
+        "level": "Complete Mine 4"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi tambang 6"
+        "level": "Complete Mine 6"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Lengkapi tambang 8"
+        "level": "Complete Mine 8"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi tambang 15"
+        "level": "Complete Mine 15"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Lengkapi milik saya 30"
+        "level": "Complete Mine 30"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi tambang 50"
+        "level": "Complete Mine 50"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi tambang 100"
+        "level": "Complete Mine 100"
       }
     ]
   },
@@ -3080,47 +3080,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 2 dalam 2 hari"
+        "level": "Reach Level 2 within 2 days"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Mencapai level 3 dalam 2 hari"
+        "level": "Reach Level 3 within 2 days"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Mencapai level 5 dalam 5 hari"
+        "level": "Reach Level 5 within 5 days"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mencapai level 10 dalam 15 hari"
+        "level": "Reach Level 10 within 15 days"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mencapai level 15"
+        "level": "Reach Level 15"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Mencapai level 20"
+        "level": "Reach Level 20"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai level 25"
+        "level": "Reach Level 25"
       },
       {
         "number": 262500.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Reach Level 30"
       }
     ]
   },
@@ -3135,52 +3135,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Usia Batu Lengkap Dalam 1 Hari"
+        "level": "Complete Stone Age within 1 days"
       },
       {
         "number": 1125.0,
         "currency": "Rp",
-        "level": "Usia pertanian lengkap"
+        "level": "Complete Farm Age"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Usia modern lengkap"
+        "level": "Complete Modern Age"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Usia perunggu lengkap dalam waktu 8 hari"
+        "level": "Complete Bronze Age within 8 days"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Usia cyborg lengkap dalam 25 hari"
+        "level": "Complete Cyborg Age within 25 days"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Lengkapi Usia Alien II dalam 30 Hari"
+        "level": "Complete Alien Age II within 30 days"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi usia virtual II dalam 30 hari"
+        "level": "Complete Virtual Age II within 30 days"
       },
       {
         "number": 9375.0,
         "currency": "Rp",
-        "level": "Beli Bundel Koin Kecil"
+        "level": "Purchase the Small Coin Bundle"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Beli Paket Permata Kecil"
+        "level": "Purchase Small Gem Pack"
       }
     ]
   },
@@ -3195,57 +3195,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi 5 level"
+        "level": "Complete 5 levels"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi 15 level"
+        "level": "Complete 15 levels"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi 30 level"
+        "level": "Complete 30 levels"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Lengkapi 50 level"
+        "level": "Complete 50 levels"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi 100 level"
+        "level": "Complete 100 levels"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkapi 200 level"
+        "level": "Complete 200 levels"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi 500 level"
+        "level": "Complete 500 levels"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi 800 level"
+        "level": "Complete 800 levels"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi 1200 level"
+        "level": "Complete 1200 levels"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Lengkapi 1600 level"
+        "level": "Complete 1600 levels"
       }
     ]
   },
@@ -3260,42 +3260,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai level pembangunan utama 5"
+        "level": "Reach Mainbuilding level 5"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level pembangunan utama 8"
+        "level": "Reach Mainbuilding level 8"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Mencapai level pembangunan utama 10"
+        "level": "Reach Mainbuilding level 10"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mencapai level pembangunan utama 12"
+        "level": "Reach Mainbuilding level 12"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mencapai level pembangunan utama 16"
+        "level": "Reach Mainbuilding level 16"
       },
       {
         "number": 60000.0,
         "currency": "Rp",
-        "level": "Mencapai level pembangunan utama 19"
+        "level": "Reach Mainbuilding level 19"
       },
       {
         "number": 90000.0,
         "currency": "Rp",
-        "level": "Mencapai level pembangunan utama 21"
+        "level": "Reach Mainbuilding level 21"
       }
     ]
   },
@@ -3310,57 +3310,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai level 2"
+        "level": "Reach level 2"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Reach level 5"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 7"
+        "level": "Reach level 7"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai level 8"
+        "level": "Reach level 8"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Mencapai level 10"
+        "level": "Reach level 10"
       },
       {
         "number": 9000.0,
         "currency": "Rp",
-        "level": "Mencapai level 15"
+        "level": "Reach level 15"
       },
       {
         "number": 13500.0,
         "currency": "Rp",
-        "level": "Mencapai level 20"
+        "level": "Reach level 20"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mencapai level 35"
+        "level": "Reach level 35"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Mencapai level 50"
+        "level": "Reach level 50"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Mencapai level 75"
+        "level": "Reach level 75"
       }
     ]
   },
@@ -3375,57 +3375,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 12 dari Hotel Golden Apple"
+        "level": "Complete level 12 of the hotel Golden Apple"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 20 Hotel Golden Apple"
+        "level": "Complete level 20 of the hotel Golden Apple"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 25 dari Hotel Golden Apple"
+        "level": "Complete level 25 of the hotel Golden Apple"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 40 dari Hotel Golden Apple"
+        "level": "Complete level 40 of the hotel Golden Apple"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 16 dari Hotel Regrata"
+        "level": "Complete level 16 of the hotel Regrata"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 37 Hotel Regrata"
+        "level": "Complete level 37 of the hotel Regrata"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 60 dari Hotel Regrata"
+        "level": "Complete level 60 of the hotel Regrata"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 80 Hotel Paradise Bay"
+        "level": "Complete level 80 of the hotel Paradise Bay"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 80 Hotel Silver Pike"
+        "level": "Complete level 80 of the hotel Silver Pike"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 80 dari Hotel Melody Breeze"
+        "level": "Complete level 80 of the hotel Melody Breeze"
       }
     ]
   },
@@ -3440,52 +3440,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 225.0,
         "currency": "Rp",
-        "level": "Lengkapi tutorial"
+        "level": "Complete the Tutorial"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai ruang tamu"
+        "level": "Reach the Livingroom"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai dapur"
+        "level": "Reach the Kitchen"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Mencapai kamar bayi"
+        "level": "Reach the Baby Room"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Mencapai rumah hijau"
+        "level": "Reach the Green House"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai tepi kolam renang"
+        "level": "Reach the Poolside"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mencapai perkemahan"
+        "level": "Reach the Campsite"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai lokakarya"
+        "level": "Reach the WorkShop"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai studio seni"
+        "level": "Reach the Art Studio"
       }
     ]
   },
@@ -3500,42 +3500,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "LOKSI LENGKAP 5"
+        "level": "Complete Location 5"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Lokasi 10"
+        "level": "Complete Location 10"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkapi Lokasi 25"
+        "level": "Complete Location 25"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Lengkapi Lokasi 50"
+        "level": "Complete Location 50"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lokasi Lengkap 75"
+        "level": "Complete Location 75"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Lengkapi Lokasi 100"
+        "level": "Complete Location 100"
       },
       {
         "number": 187500.0,
         "currency": "Rp",
-        "level": "Lokasi Lengkap 110"
+        "level": "Complete Location 110"
       }
     ]
   },
@@ -3550,52 +3550,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 2"
+        "level": "Unlock Arena 2"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 5"
+        "level": "Unlock Arena 5"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 7"
+        "level": "Unlock Arena 7"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 9"
+        "level": "Unlock Arena 9"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 11"
+        "level": "Unlock Arena 11"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Buka Liga 1"
+        "level": "Unlock League 1"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Buka Liga 2"
+        "level": "Unlock League 2"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Buka Liga 3"
+        "level": "Unlock League 3"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Buka Liga 5"
+        "level": "Unlock League 5"
       }
     ]
   },
@@ -3610,47 +3610,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 2"
+        "level": "Complete Level 2"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5"
+        "level": "Complete Level 5"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete Level 10"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 15"
+        "level": "Complete Level 15"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete Level 20"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete Level 30"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 40"
+        "level": "Complete Level 40"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 80"
+        "level": "Complete Level 80"
       }
     ]
   },
@@ -3665,47 +3665,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 5"
+        "level": "Complete Chapter 5"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 10"
+        "level": "Complete Chapter 10"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 20"
+        "level": "Complete Chapter 20"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 30"
+        "level": "Complete Chapter 30"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Lengkapi Bab 50"
+        "level": "Complete Chapter 50"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Lengkapi Bab 100"
+        "level": "Complete Chapter 100"
       },
       {
         "number": 187500.0,
         "currency": "Rp",
-        "level": "Lengkap Bab 200"
+        "level": "Complete Chapter 200"
       },
       {
         "number": 337500.0,
         "currency": "Rp",
-        "level": "Lengkapi Bab 300"
+        "level": "Complete Chapter 300"
       }
     ]
   },
@@ -3720,37 +3720,37 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai Level Kapal 6"
+        "level": "Reach Ship Level 6"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Mencapai level kapal 9"
+        "level": "Reach Ship Level 9"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Mencapai level kapal 11"
+        "level": "Reach Ship Level 11"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai level kapal 13"
+        "level": "Reach Ship Level 13"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mencapai level kapal 15"
+        "level": "Reach Ship Level 15"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Mencapai level kapal 18"
+        "level": "Reach Ship Level 18"
       }
     ]
   },
@@ -3765,72 +3765,72 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5"
+        "level": "Complete level 5"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Kumpulkan hadiah dengan membuat 10 putaran di game poker video yang menarik"
+        "level": "Collect a reward by making 10 spins in the exciting Video Poker game"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Lengkapi koleksi hadiah gratis Anda di Casino Pass dan dapatkan hadiah"
+        "level": "Complete your collection of free rewards in the Casino Pass and get rewarded"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Dapatkan hadiah dengan bermain poker 15 kali"
+        "level": "Get rewarded by playing poker 15 times"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Dapatkan hadiah untuk kehebatan blackjack Anda - menang 5 kali"
+        "level": "Get rewarded for your Blackjack prowess – win 5 times"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Tempatkan 5 taruhan dan dapatkan hadiah"
+        "level": "Place 5 bets and get rewards"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Putar slot dalam permainan 20 kali"
+        "level": "Spin the slots in the game 20 times"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Buka kunci hadiah dengan mencoba roulette, bahkan hanya sekali"
+        "level": "Unlock a reward by giving roulette a try, even just once"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Koleksi Hadiah Elite Anda di Casino Pass"
+        "level": "Complete your elite reward collection in the Casino Pass"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 15"
+        "level": "Complete level 15"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       }
     ]
   },
@@ -3845,47 +3845,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the Game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai level 5"
+        "level": "Reach level 5"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Mencapai level 12"
+        "level": "Reach level 12"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Mencapai level 15"
+        "level": "Reach level 15"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Mencapai level 18"
+        "level": "Reach level 18"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai level 25"
+        "level": "Reach level 25"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Mencapai level 30"
+        "level": "Reach level 30"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Tingkatkan peringkat untuk pahlawan ke bintang ke -5. Karakter legendaris yang diberikan tidak masuk hitungan"
+        "level": "Upgrade rank for a hero to 5th star. Granted legendary character doesn't count"
       },
       {
         "number": 187500.0,
         "currency": "Rp",
-        "level": "Mencapai level 40"
+        "level": "Reach level 40"
       }
     ]
   },
@@ -3900,52 +3900,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mainkan 10 permainan uang tunai di hari pertama"
+        "level": "Play 10 cash games within the first day"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Mainkan 30 permainan uang tunai dalam waktu 3 hari"
+        "level": "Play 30 cash games within 3 days"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Menangkan 30 pertandingan uang tunai dalam waktu 3 hari"
+        "level": "Win 30 cash games within 3 days"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Menangkan 70 pertandingan tunai dalam 7 hari"
+        "level": "Win 70 cash games within 7 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Menangkan 150 pertandingan tunai dalam 14 hari"
+        "level": "Win 150 cash games within 14 days"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Menangkan 300 permainan uang"
+        "level": "Win 300 cash games"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Menangkan 450 Game Tunai"
+        "level": "Win 450 cash games"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Menangkan 600 Game Tunai"
+        "level": "Win 600 cash games"
       },
       {
         "number": 750000.0,
         "currency": "Rp",
-        "level": "Menangkan 1000 Game Tunai"
+        "level": "Win 1000 cash games"
       }
     ]
   },
@@ -3960,52 +3960,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Kamar Lengkap 1: Lobi"
+        "level": "Сomplete room 1: Lobby"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Kamar с lengkap 3: fasad"
+        "level": "Сomplete room 3: Facade"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Kamar с lengkap 5: Dapur"
+        "level": "Сomplete room 5: Kitchen"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Kamar с lengkap 7: kafe"
+        "level": "Сomplete room 7: Cafe"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Kamar с lengkap 9: Spa"
+        "level": "Сomplete room 9: Spa"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Kamar с lengkap 10: rumah kaca"
+        "level": "Сomplete room 10: Greenhouse"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Kamar enc lengkap 15: Kamar Kucing"
+        "level": "Сomplete room 15: Cat Room"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Kamar Lengkap 20: Festival"
+        "level": "Сomplete room 20: Festival"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Kamar enc yang lengkap 25: Ruang Musik"
+        "level": "Сomplete room 25: Music Room"
       }
     ]
   },
@@ -4020,47 +4020,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai tingkat benteng 7"
+        "level": "Reach STRONGHOLD Level 7"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Mencapai Level Benteng 12"
+        "level": "Reach STRONGHOLD Level 12"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Mencapai tingkat benteng 17"
+        "level": "Reach STRONGHOLD Level 17"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai level benteng 23"
+        "level": "Reach STRONGHOLD Level 23"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai tingkat benteng 25"
+        "level": "Reach STRONGHOLD Level 25"
       },
       {
         "number": 97500.0,
         "currency": "Rp",
-        "level": "Mencapai level benteng 28"
+        "level": "Reach STRONGHOLD Level 28"
       },
       {
         "number": 135000.0,
         "currency": "Rp",
-        "level": "Mencapai Level Benteng 31"
+        "level": "Reach STRONGHOLD Level 31"
       },
       {
         "number": 262500.0,
         "currency": "Rp",
-        "level": "Mencapai level benteng 35"
+        "level": "Reach STRONGHOLD Level 35"
       }
     ]
   },
@@ -4075,72 +4075,72 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 5"
+        "level": "Complete level 5"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Kumpulkan hadiah dengan membuat 10 putaran di game poker video yang menarik"
+        "level": "Collect a reward by making 10 spins in the exciting Video Poker game"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Lengkapi koleksi hadiah gratis Anda di Casino Pass dan dapatkan hadiah"
+        "level": "Complete your collection of free rewards in the Casino Pass and get rewarded"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Dapatkan hadiah dengan bermain poker 15 kali"
+        "level": "Get rewarded by playing poker 15 times"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Dapatkan hadiah untuk kehebatan blackjack Anda - menang 5 kali"
+        "level": "Get rewarded for your Blackjack prowess – win 5 times"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Tempatkan 5 taruhan dan dapatkan hadiah"
+        "level": "Place 5 bets and get rewards"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Putar slot dalam permainan 20 kali"
+        "level": "Spin the slots in the game 20 times"
       },
       {
         "number": 525.0,
         "currency": "Rp",
-        "level": "Buka kunci hadiah dengan mencoba roulette, bahkan hanya sekali"
+        "level": "Unlock a reward by giving roulette a try, even just once"
       },
       {
         "number": 3000.0,
         "currency": "Rp",
-        "level": "Lengkapi Koleksi Hadiah Elite Anda di Casino Pass"
+        "level": "Complete your elite reward collection in the Casino Pass"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 15"
+        "level": "Complete level 15"
       },
       {
         "number": 6000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       }
     ]
   },
@@ -4155,42 +4155,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Mencapai kedaulatan 10k dalam waktu 7 hari"
+        "level": "Reach Sovereignty 10k within 7 days"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Mencapai kedaulatan 50k dalam waktu 7 hari"
+        "level": "Reach Sovereignty 50k within 7 days"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Jangkau kedaulatan 450k dalam waktu 7 hari"
+        "level": "Reach Sovereignty 450k within 7 days"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Jangkau kedaulatan 900K dalam waktu 15 hari"
+        "level": "Reach Sovereignty 900k  within 15 days"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Mencapai kedaulatan 1.8m"
+        "level": "Reach Sovereignty 1.8M"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai VIP 1"
+        "level": "Reach VIP 1"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai VIP 5"
+        "level": "Reach VIP 5"
       }
     ]
   },
@@ -4205,57 +4205,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 7"
+        "level": "Complete level 7"
       },
       {
         "number": 4500.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 10"
+        "level": "Complete level 10"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 12"
+        "level": "Complete level 12"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 15"
+        "level": "Complete level 15"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 20"
+        "level": "Complete level 20"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 25"
+        "level": "Complete level 25"
       },
       {
         "number": 45000.0,
         "currency": "Rp",
-        "level": "Level Lengkapi 30"
+        "level": "Complete level 30"
       },
       {
         "number": 60000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 35"
+        "level": "Complete level 35"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 40"
+        "level": "Complete level 40"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Lengkapi Level 45"
+        "level": "Complete level 45"
       }
     ]
   },
@@ -4270,42 +4270,42 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Menggunakan File APK"
+        "level": "Start playing using the APK file"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Melakukan setoran $ 10 atau lebih"
+        "level": "Make a deposit of $10 or more"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Mainkan 5 pertandingan dalam 2 hari"
+        "level": "Play 5 Games within 2 days"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Mainkan 50 game dalam 5 hari"
+        "level": "Play 50 Games within 5 days"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Menangkan 10 pertandingan dalam 3 hari"
+        "level": "Win 10 Games within 3 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Menangkan 200 pertandingan dalam 10 hari"
+        "level": "Win 200 Games within 10 days"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Menangkan 500 pertandingan dalam 14 hari"
+        "level": "Win 500 Games within 14 days"
       },
       {
         "number": 750000.0,
         "currency": "Rp",
-        "level": "Menangkan 1000 pertandingan dalam 20 hari"
+        "level": "Win 1000 Games within 20 days"
       }
     ]
   },
@@ -4320,47 +4320,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Warna 15 Gambar Unik"
+        "level": "Color 15 unique pictures"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Warna 50 gambar unik"
+        "level": "Color 50 unique pictures"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Warna 100 gambar unik"
+        "level": "Color 100 unique pictures"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Warna 200 gambar unik"
+        "level": "Color 200 unique pictures"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Warna 300 gambar unik"
+        "level": "Color 300 unique pictures"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Warna 500 gambar unik"
+        "level": "Color 500 unique pictures"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Warna 700 gambar unik"
+        "level": "Color 700 unique pictures"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Warna 1000 gambar unik"
+        "level": "Color 1000 unique pictures"
       }
     ]
   },
@@ -4375,57 +4375,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Tingkatkan Pusat Perintah Anda ke Level 6"
+        "level": "Upgrade your Command Center to level 6"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Tingkatkan Pusat Perintah Anda ke Level 13"
+        "level": "Upgrade your Command Center to level 13"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Mencapai kekuatan 1 juta"
+        "level": "Reach Power 1 Million"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Mencapai kekuatan 2 juta"
+        "level": "Reach Power 2 Millions"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Mencapai kekuatan 3 juta"
+        "level": "Reach Power 3 Millions"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Mencapai kekuatan 4 juta"
+        "level": "Reach Power 4 Millions"
       },
       {
         "number": 187500.0,
         "currency": "Rp",
-        "level": "Mencapai daya 5 juta"
+        "level": "Reach Power 5 Millions"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Mencapai daya 6,5 ​​juta"
+        "level": "Reach Power 6.5 Millions"
       },
       {
         "number": 300000.0,
         "currency": "Rp",
-        "level": "Mencapai kekuatan 8 juta"
+        "level": "Reach Power 8 Millions"
       },
       {
         "number": 525000.0,
         "currency": "Rp",
-        "level": "Mencapai daya 15 juta"
+        "level": "Reach Power 15 Millions"
       }
     ]
   },
@@ -4440,52 +4440,52 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Mainkan 10 permainan uang tunai di hari pertama"
+        "level": "Play 10 cash games within the first day"
       },
       {
         "number": 26250.0,
         "currency": "Rp",
-        "level": "Mainkan 30 permainan uang tunai dalam waktu 3 hari"
+        "level": "Play 30 cash games within 3 days"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Menangkan 30 pertandingan uang tunai dalam waktu 3 hari"
+        "level": "Win 30 cash games within 3 days"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Menangkan 70 pertandingan tunai dalam 7 hari"
+        "level": "Win 70 cash games within 7 days"
       },
       {
         "number": 75000.0,
         "currency": "Rp",
-        "level": "Menangkan 150 pertandingan tunai dalam 14 hari"
+        "level": "Win 150 cash games within 14 days"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Menangkan 300 pertandingan tunai di dalam"
+        "level": "Win 300 cash games within"
       },
       {
         "number": 150000.0,
         "currency": "Rp",
-        "level": "Menangkan 450 game tunai di dalam"
+        "level": "Win 450 cash games within"
       },
       {
         "number": 375000.0,
         "currency": "Rp",
-        "level": "Menangkan 600 pertandingan tunai di dalam"
+        "level": "Win 600 cash games within"
       },
       {
         "number": 750000.0,
         "currency": "Rp",
-        "level": "Menangkan 1000 game tunai di dalam"
+        "level": "Win 1000 cash games within"
       }
     ]
   },
@@ -4500,57 +4500,57 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 750.0,
         "currency": "Rp",
-        "level": "Selesaikan 20 pencarian"
+        "level": "Complete 20 quests"
       },
       {
         "number": 2250.0,
         "currency": "Rp",
-        "level": "Lengkapi 40 pencarian"
+        "level": "Complete 40 quests"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Lengkapi 60 pencarian"
+        "level": "Complete 60 quests"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Lengkapi 80 pencarian"
+        "level": "Complete 80 quests"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Selesaikan 100 pencarian"
+        "level": "Complete 100 quests"
       },
       {
         "number": 15000.0,
         "currency": "Rp",
-        "level": "Lengkapi 150 pencarian"
+        "level": "Complete 150 quests"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Lengkapi 200 pencarian"
+        "level": "Complete 200 quests"
       },
       {
         "number": 30000.0,
         "currency": "Rp",
-        "level": "Lengkapi 250 pencarian"
+        "level": "Complete 250 quests"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Lengkapi 300 pencarian"
+        "level": "Complete 300 quests"
       },
       {
         "number": 225000.0,
         "currency": "Rp",
-        "level": "Selesaikan 350 pencarian"
+        "level": "Complete 350 quests"
       }
     ]
   },
@@ -4565,47 +4565,47 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 375.0,
         "currency": "Rp",
-        "level": "Area lengkap 1"
+        "level": "Complete Area 1"
       },
       {
         "number": 3750.0,
         "currency": "Rp",
-        "level": "Area lengkap 4"
+        "level": "Complete Area 4"
       },
       {
         "number": 7500.0,
         "currency": "Rp",
-        "level": "Area lengkap 8"
+        "level": "Complete Area 8"
       },
       {
         "number": 11250.0,
         "currency": "Rp",
-        "level": "Area lengkap 15"
+        "level": "Complete Area 15"
       },
       {
         "number": 22500.0,
         "currency": "Rp",
-        "level": "Area lengkap 20"
+        "level": "Complete Area 20"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Area lengkap 30"
+        "level": "Complete Area 30"
       },
       {
         "number": 52500.0,
         "currency": "Rp",
-        "level": "Area lengkap 40"
+        "level": "Complete Area 40"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Area lengkap 50"
+        "level": "Complete Area 50"
       }
     ]
   },
@@ -4620,32 +4620,32 @@
       {
         "number": 75.0,
         "currency": "Rp",
-        "level": "Mulailah Bermain Game"
+        "level": "Start playing the game"
       },
       {
         "number": 1500.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 2"
+        "level": "Unlock Arena 2"
       },
       {
         "number": 5250.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 4"
+        "level": "Unlock Arena 4"
       },
       {
         "number": 18750.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 6"
+        "level": "Unlock Arena 6"
       },
       {
         "number": 37500.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 9"
+        "level": "Unlock Arena 9"
       },
       {
         "number": 112500.0,
         "currency": "Rp",
-        "level": "Buka Kunci Arena 13"
+        "level": "Unlock Arena 13"
       }
     ]
   }
